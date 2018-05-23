@@ -1,8 +1,8 @@
-# Hercules - vendor-independent interfaces for SDN switch platform
+# Hercules - vendor-independent interfaces for SDN switch platforms
 
 
 The Hercules project defines a common set of vendor-independent management
-and control interfaces for SDN switching platforms.
+and control interfaces for SDN switches.
 
 This repository contains YANG modules that extend the base
 [OpenConfig](https://github.com/openconfig/public) model to define the
