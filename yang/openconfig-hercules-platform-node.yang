@@ -47,12 +47,6 @@ submodule openconfig-hercules-platform-node {
         "The numeric id used by the controller to address the node.";
     }
 
-    leaf index {
-      type int32;
-      description
-        "The index of the node.";
-    }
-
   }
 
   grouping node-vendor-data-top {

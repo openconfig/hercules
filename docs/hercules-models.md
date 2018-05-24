@@ -38,7 +38,7 @@ Hercules defines a standard physical component hierarchy consisting of chassis -
 | Path | Description |
 | ---- | :---------- |
 `/interfaces/interface/[config\|state]/health-indicator` | This is used by the controller to set a simple visual indicator for an interface (typically and LED) to assist operations or maintenance teams to identify a faulty interface.  A switch implementation may map GOOD and BAD values to appropriate LED colors, for example red and green, respectively, on the physical port corresponding to the interface.
-`/interfaces/interface/ethernet/[config\|state]/forwarding-viable` | This is used by the controller to disable an interface (usually part of an aggregate) for the purposes of forwarding traffic.  This allows a logical aggregate to continue to be used with partial capacity, for example.  Note that setting `forwarding-vialbe = false` is not equivalent to administratively disabling the interface -- in particular, the interface is expected to participate in L2 protocols such as LLDP or LACP even if it blocked from forwarding traffic.
+`/interfaces/interface/ethernet/[config\|state]/forwarding-viable` | This is used by the controller to disable an interface (usually part of an aggregate) for the purposes of forwarding traffic.  This allows a logical aggregate to continue to be used with partial capacity, for example.  Note that setting `forwarding-viable = false` is not equivalent to administratively disabling the interface -- in particular, the interface is expected to participate in L2 protocols such as LLDP or LACP even if it blocked from forwarding traffic.
 
 ### openconfig-hercules-qos
 
