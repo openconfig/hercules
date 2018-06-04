@@ -12,7 +12,7 @@ Hercules leverages the component model described by the OpenConfig
 platform model, as well as several logical elements including interfaces, QoS,
 and L2 protocols.  The diagram below summarizes the model elements.
 
-![Hercules models](img/hercules-modeling.png)
+<img src="img/hercules-modeling.png" width="75%">
 
 Hercules defines a standard physical component hierarchy consisting of `chassis
 -> linecard -> node -> port`.  Nodes are generally implemented by a switching
@@ -21,4 +21,4 @@ OpenConfig model, a physical port gives rise to one or more logical interfaces,
 depending on whether port channelization is in effect.  The layout is
 illustrated below.
 
-<img src="img/hercules-chassis.png" width="50%">
+<img src="img/hercules-chassis.png" width="75%">
