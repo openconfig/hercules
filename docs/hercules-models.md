@@ -21,4 +21,4 @@ OpenConfig model, a physical port gives rise to one or more logical interfaces,
 depending on whether port channelization is in effect.  The layout is
 illustrated below.
 
-![Hercules physical switch layout](img/hercules-chassis.png =480x270)
+<img src="img/hercules-chassis.png" width="50%">
