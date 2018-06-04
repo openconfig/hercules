@@ -63,6 +63,17 @@ module openconfig-hercules-interfaces {
     description
       "Configuration data for Hercules interfaces";
 
+    leaf id {
+      type uint32;
+      description
+        "The numeric identifier used by the controller to address the
+        interface.  The id is also known as the 'SDN port id'.
+
+        The SDN management system may assign an id to the interface,
+        for example to create an association with physical ports,
+        nodes, etc.";
+    }
+
     leaf health-indicator {
       type enumeration {
         enum GOOD {
