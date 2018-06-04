@@ -24,9 +24,9 @@ submodule openconfig-hercules-platform-node {
 
   oc-ext:openconfig-version "0.2.0";
 
-  revision 2017-12-20 {
+  revision 2018-06-01 {
     description
-      "Initial version";
+      "Initial version.";
     reference "0.2.0";
   }
 
@@ -44,7 +44,15 @@ submodule openconfig-hercules-platform-node {
     leaf node-id {
       type uint64;
       description
-        "The numeric id used by the controller to address the node.";
+        "The numeric id used by the controller to address the node.
+
+        Each node (i.e., switching ASIC) is addressed by the
+        controller or configuration manager based on its numeric
+        identifier (which can be assigned through configuration).  In
+        order to effectively manage port availability, for example, it
+        is important for the controller to understand which ports are
+        managed by which nodes.";
+  
     }
 
   }
@@ -55,19 +63,18 @@ submodule openconfig-hercules-platform-node {
 
     container vendor-data {
       description
-        "This container may be used as an attachment point for
-        vendor-specific data augmentations related to a specific
-        node or switching ASIC.";
+        "This is an anchor container for defining augmentations that
+        "add ASIC-specific data to the model.";
 
       container config {
         description
-          "Configuration data for a vendor node.";
+          "Vendor-specific configuration data for a node.";
       }
 
       container state {
         config false;
         description
-          "Operational state data for a vendor node.";
+          "Vendor-specific operational state data for a node.";
       }
     }
   }

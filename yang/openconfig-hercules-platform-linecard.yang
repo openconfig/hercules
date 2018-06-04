@@ -25,9 +25,9 @@ submodule openconfig-hercules-platform-linecard {
 
   oc-ext:openconfig-version "0.2.0";
 
-  revision 2017-12-20 {
+  revision 2018-06-01 {
     description
-      "Initial version";
+      "Initial version.";
     reference "0.2.0";
   }
 
@@ -42,7 +42,10 @@ submodule openconfig-hercules-platform-linecard {
       type string;
       description
         "Identifier for the slot (or chassis position) in which
-        the linecard is installed";
+        the linecard is installed.
+
+        The SDN management system may need to assign the slot ID to
+        the linecard via configuration.";
     }
   }
 

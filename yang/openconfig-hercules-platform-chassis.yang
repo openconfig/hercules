@@ -26,9 +26,9 @@ submodule openconfig-hercules-platform-chassis {
 
   oc-ext:openconfig-version "0.2.0";
 
-  revision 2017-12-20 {
+  revision 2018-06-01 {
     description
-      "Initial version";
+      "Initial version.";
     reference "0.2.0";
   }
 
@@ -106,16 +106,18 @@ submodule openconfig-hercules-platform-chassis {
 
       container memory-error {
         description
-          "This alarm indicates that the switch software has detected
-          a physical memory error.";
+          "This is an exception raised when the switch detects an
+          uncorrectable memory corruption error.";
 
         uses hercules-chassis-alarms-state;
       }
 
       container flow-programming-exception {
         description
-          "This alarm indicates that an error has been detected when
-          trying to complete a flow programming operation.";
+          "This exception is raised when the switch is unable to
+          "complete a flow programming instruction from the SDN
+          "controller.  It may be caused by a hardware error or a
+          "software exception.";
 
         uses hercules-chassis-alarms-state;
       }
@@ -132,7 +134,11 @@ submodule openconfig-hercules-platform-chassis {
         base PLATFORM_TYPE;
       }
       description
-        "Platform type associated with the chassis component";
+        "This identity specifies the type of Hercules chassis.
+
+        The initial model defines a GENERIC type, but implementors may
+        extend this with additional values.";
+    
     }
   }
 

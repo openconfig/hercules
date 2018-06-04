@@ -25,8 +25,9 @@ module openconfig-hercules-qos {
 
   oc-ext:openconfig-version "0.1.0";
 
-  revision 2018-02-09 {
-    description "Still a draft. Expect significant changes.";
+  revision 2018-06-01 {
+    description
+      "Initial version.";
     reference "0.1.0";
   }
 
@@ -47,7 +48,8 @@ module openconfig-hercules-qos {
     leaf id {
       type uint32;
       description
-        "Unique ID of the queue";
+        "This is a read-only value to indicate the id of a input or
+        output queue associated with an interface.";
     }
 
   }
@@ -59,7 +61,10 @@ module openconfig-hercules-qos {
     leaf id {
       type uint32;
       description
-        "Unique ID of the queue";
+        "The SDN controller addresses queues using a numeric id --
+        this allows the controller to map the queue name to its SDN
+        queue id which can be assigned by the configuration
+        manager.";
     }
 
   }

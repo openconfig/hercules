@@ -54,7 +54,11 @@ module openconfig-hercules-platform {
         }
       }
       description
-        "Type of component as identified by the system";
+        "Type of component as identified by the system.
+
+        An SDN configuration system may need to set the type
+        of component (e.g., to preconfigure a system and validate that
+        it was correctly deployed).";
     }
 
   }

@@ -24,9 +24,9 @@ submodule openconfig-hercules-platform-port {
 
   oc-ext:openconfig-version "0.2.0";
 
-  revision 2017-12-20 {
+  revision 2018-06-01 {
     description
-      "Initial version";
+      "Initial version.";
     reference "0.2.0";
   }
 
@@ -53,7 +53,10 @@ submodule openconfig-hercules-platform-port {
     leaf port-id {
       type uint32;
       description
-        "References the hardware port in the device inventory";
+        "A numeric identifier assigned by the SDN management
+        system for a physical port.  This is used for example
+        to create an association between the port and the node
+        that manages it.";
     }
   }
 
