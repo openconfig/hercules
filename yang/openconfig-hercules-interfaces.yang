@@ -67,11 +67,12 @@ module openconfig-hercules-interfaces {
       type uint32;
       description
         "The numeric identifier used by the controller to address the
-        interface.  The id is also known as the 'SDN port id'.
+        interface.
 
-        The SDN management system may assign an id to the interface,
-        for example to create an association with physical ports,
-        nodes, etc.";
+        It is assigned by the SDN management system to establish an
+        externally deterministic integer identifier (SDN port number)
+        for the interface.";
+    
     }
 
     leaf health-indicator {
