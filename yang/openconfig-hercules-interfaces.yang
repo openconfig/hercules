@@ -68,7 +68,7 @@ module openconfig-hercules-interfaces {
       description
         "The numeric identifier used by the controller to address the
         interface.  This id is assigned by the SDN management system
-        to establish an externally deterministic integer identifier
+        to establish an externally deterministic numeric reference
         (SDN port number) for the interface.  The management system
         must ensure that the id is unique within the required
         context (e.g., with respect to the node on which the
