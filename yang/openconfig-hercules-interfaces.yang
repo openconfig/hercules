@@ -56,8 +56,8 @@ module openconfig-hercules-interfaces {
         administratively disabling the interface -- in particular, the
         interface is expected to participate in L2 protocols such as
         LLDP or LACP even if it blocked from forwarding traffic.";
-    }   
-  } 
+    }
+  }
 
   grouping hercules-interface-config {
     description
@@ -67,12 +67,16 @@ module openconfig-hercules-interfaces {
       type uint32;
       description
         "The numeric identifier used by the controller to address the
-        interface.
+        interface.  This id is assigned by the SDN management system
+        to establish an externally deterministic integer identifier
+        (SDN port number) for the interface.  The management system
+        must ensure that the id is unique within the required
+        context (e.g., with respect to the node on which the
+        interface resides).
 
-        It is assigned by the SDN management system to establish an
-        externally deterministic integer identifier (SDN port number)
-        for the interface.";
-    
+        Note that this identifier is used when a numeric reference
+        to the interface is required.  It does not replace the
+        unique name assigned to the interface.";
     }
 
     leaf health-indicator {
