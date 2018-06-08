@@ -18,11 +18,11 @@ in the `yang` directory.
 A Hercules switch exposes the data models via [gNMI](https://github.comopenconfig/gnmi/),
 which allows manipulation of the configuration of the switch, and retrieval
 of its state via polling and streaming RPCs. More details of gNMI can
-be found in its [specification](https://github.com/openconfig/reference/blob/master/rpc/gnmi/gnmi-specification.md)
+be found in its [specification](https://github.com/openconfig/reference/blob/master/rpc/gnmi/gnmi-specification.md).
 
 *Note that Hercules data models are in early development and are likely
 to change frequently. In particular, backward compatibilty is __not__
-guaranteed.  See also (Semantic Versioning for OpenConfig Models)[http://www.openconfig.net/docs/semver/].*
+guaranteed.  See also [Semantic Versioning for OpenConfig Models](http://www.openconfig.net/docs/semver/).*
 
 ## Notices
 
