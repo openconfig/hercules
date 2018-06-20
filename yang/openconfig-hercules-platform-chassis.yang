@@ -115,9 +115,9 @@ submodule openconfig-hercules-platform-chassis {
       container flow-programming-exception {
         description
           "This exception is raised when the switch is unable to
-          "complete a flow programming instruction from the SDN
-          "controller.  It may be caused by a hardware error or a
-          "software exception.";
+          complete a flow programming instruction from the SDN
+          controller.  It may be caused by a hardware error or a
+          software exception.";
 
         uses hercules-chassis-alarms-state;
       }
