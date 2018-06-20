@@ -64,7 +64,7 @@ submodule openconfig-hercules-platform-node {
     container vendor-data {
       description
         "This is an anchor container for defining augmentations that
-        "add ASIC-specific data to the model.";
+        add ASIC-specific data to the model.";
 
       container config {
         description
