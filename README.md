@@ -15,7 +15,7 @@ which are machine generated from the YANG modules, and stored in the
 `proto` directory of this repository. The source YANG modules are stored
 in the `yang` directory.
 
-A Hercules switch exposes the data models via [gNMI](https://github.comopenconfig/gnmi/),
+A Hercules switch exposes the data models via [gNMI](https://github.openconfig/gnmi/),
 which allows manipulation of the configuration of the switch, and retrieval
 of its state via polling and streaming RPCs. More details of gNMI can
 be found in its [specification](https://github.com/openconfig/reference/blob/master/rpc/gnmi/gnmi-specification.md).
