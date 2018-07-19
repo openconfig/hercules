@@ -13,9 +13,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// Package hercules contains code generated from the OpenConfig Hercules
+// Package openconfig_hercules contains code generated from the OpenConfig Hercules
 // protobuf.
-package hercules
+package openconfig_hercules
 
 // .pb.go can be generated with go generate.
 //go:generate sh -c "cd $GOPATH/src && protoc --proto_path=. --go_out=:. github.com/openconfig/hercules/proto/openconfig/hercules/hercules.proto"

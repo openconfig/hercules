@@ -30,7 +30,7 @@ func (m *Hercules) Reset()         { *m = Hercules{} }
 func (m *Hercules) String() string { return proto.CompactTextString(m) }
 func (*Hercules) ProtoMessage()    {}
 func (*Hercules) Descriptor() ([]byte, []int) {
-	return fileDescriptor_hercules_48d65e0fd0a9efc5, []int{0}
+	return fileDescriptor_hercules_c956f2dddb3bdc97, []int{0}
 }
 func (m *Hercules) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Hercules.Unmarshal(m, b)
@@ -55,10 +55,10 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/hercules/hercules.proto", fileDescriptor_hercules_48d65e0fd0a9efc5)
+	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/hercules/hercules.proto", fileDescriptor_hercules_c956f2dddb3bdc97)
 }
 
-var fileDescriptor_hercules_48d65e0fd0a9efc5 = []byte{
+var fileDescriptor_hercules_c956f2dddb3bdc97 = []byte{
 	// 121 bytes of a gzipped FileDescriptorProto
 	0x1f, 0x8b, 0x08, 0x00, 0x00, 0x00, 0x00, 0x00, 0x02, 0xff, 0xe2, 0x72, 0x4f, 0xcf, 0x2c, 0xc9,
 	0x28, 0x4d, 0xd2, 0x4b, 0xce, 0xcf, 0xd5, 0xcf, 0x2f, 0x48, 0xcd, 0x4b, 0xce, 0xcf, 0x4b, 0xcb,

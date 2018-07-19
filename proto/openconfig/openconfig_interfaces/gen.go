@@ -15,7 +15,7 @@
 
 // Package openconfig_interfaces contains code generated from the OpenConfig
 // Interfaces protobuf for Hercules.
-package openconfig_interfaces
+package openconfig_openconfig_interfaces
 
 // .pb.go can be generated with go generate.
 //go:generate sh -c "cd $GOPATH/src && protoc --proto_path=. --go_out=:. github.com/openconfig/hercules/proto/openconfig/openconfig_interfaces/openconfig_interfaces.proto"
