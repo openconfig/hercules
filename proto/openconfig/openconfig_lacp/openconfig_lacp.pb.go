@@ -34,7 +34,7 @@ func (m *Lacp) Reset()         { *m = Lacp{} }
 func (m *Lacp) String() string { return proto.CompactTextString(m) }
 func (*Lacp) ProtoMessage()    {}
 func (*Lacp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0}
 }
 func (m *Lacp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp.Unmarshal(m, b)
@@ -86,7 +86,7 @@ func (m *Lacp_Config) Reset()         { *m = Lacp_Config{} }
 func (m *Lacp_Config) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Config) ProtoMessage()    {}
 func (*Lacp_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 0}
 }
 func (m *Lacp_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Config.Unmarshal(m, b)
@@ -124,7 +124,7 @@ func (m *Lacp_Interfaces) Reset()         { *m = Lacp_Interfaces{} }
 func (m *Lacp_Interfaces) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces) ProtoMessage()    {}
 func (*Lacp_Interfaces) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1}
 }
 func (m *Lacp_Interfaces) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces.Unmarshal(m, b)
@@ -164,7 +164,7 @@ func (m *Lacp_Interfaces_Interface) Reset()         { *m = Lacp_Interfaces_Inter
 func (m *Lacp_Interfaces_Interface) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces_Interface) ProtoMessage()    {}
 func (*Lacp_Interfaces_Interface) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0}
 }
 func (m *Lacp_Interfaces_Interface) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface.Unmarshal(m, b)
@@ -220,7 +220,7 @@ func (m *Lacp_Interfaces_Interface_Config) Reset()         { *m = Lacp_Interface
 func (m *Lacp_Interfaces_Interface_Config) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces_Interface_Config) ProtoMessage()    {}
 func (*Lacp_Interfaces_Interface_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 0}
 }
 func (m *Lacp_Interfaces_Interface_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_Config.Unmarshal(m, b)
@@ -286,7 +286,7 @@ func (m *Lacp_Interfaces_Interface_Members) Reset()         { *m = Lacp_Interfac
 func (m *Lacp_Interfaces_Interface_Members) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces_Interface_Members) ProtoMessage()    {}
 func (*Lacp_Interfaces_Interface_Members) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 1}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 1}
 }
 func (m *Lacp_Interfaces_Interface_Members) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_Members.Unmarshal(m, b)
@@ -326,7 +326,7 @@ func (m *Lacp_Interfaces_Interface_Members_Member) Reset() {
 func (m *Lacp_Interfaces_Interface_Members_Member) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces_Interface_Members_Member) ProtoMessage()    {}
 func (*Lacp_Interfaces_Interface_Members_Member) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 1, 0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 1, 0}
 }
 func (m *Lacp_Interfaces_Interface_Members_Member) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_Members_Member.Unmarshal(m, b)
@@ -381,7 +381,7 @@ func (m *Lacp_Interfaces_Interface_Members_Member_State) String() string {
 }
 func (*Lacp_Interfaces_Interface_Members_Member_State) ProtoMessage() {}
 func (*Lacp_Interfaces_Interface_Members_Member_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 1, 0, 0}
 }
 func (m *Lacp_Interfaces_Interface_Members_Member_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_Members_Member_State.Unmarshal(m, b)
@@ -519,7 +519,7 @@ func (m *Lacp_Interfaces_Interface_Members_Member_State_Counters) String() strin
 }
 func (*Lacp_Interfaces_Interface_Members_Member_State_Counters) ProtoMessage() {}
 func (*Lacp_Interfaces_Interface_Members_Member_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 1, 0, 0, 0}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 1, 0, 0, 0}
 }
 func (m *Lacp_Interfaces_Interface_Members_Member_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_Members_Member_State_Counters.Unmarshal(m, b)
@@ -597,7 +597,7 @@ func (m *Lacp_Interfaces_Interface_Members_MemberKey) String() string {
 }
 func (*Lacp_Interfaces_Interface_Members_MemberKey) ProtoMessage() {}
 func (*Lacp_Interfaces_Interface_Members_MemberKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 1, 1}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 1, 1}
 }
 func (m *Lacp_Interfaces_Interface_Members_MemberKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_Members_MemberKey.Unmarshal(m, b)
@@ -646,7 +646,7 @@ func (m *Lacp_Interfaces_Interface_State) Reset()         { *m = Lacp_Interfaces
 func (m *Lacp_Interfaces_Interface_State) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces_Interface_State) ProtoMessage()    {}
 func (*Lacp_Interfaces_Interface_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 0, 2}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 0, 2}
 }
 func (m *Lacp_Interfaces_Interface_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_Interface_State.Unmarshal(m, b)
@@ -713,7 +713,7 @@ func (m *Lacp_Interfaces_InterfaceKey) Reset()         { *m = Lacp_Interfaces_In
 func (m *Lacp_Interfaces_InterfaceKey) String() string { return proto.CompactTextString(m) }
 func (*Lacp_Interfaces_InterfaceKey) ProtoMessage()    {}
 func (*Lacp_Interfaces_InterfaceKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 1, 1}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 1, 1}
 }
 func (m *Lacp_Interfaces_InterfaceKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_Interfaces_InterfaceKey.Unmarshal(m, b)
@@ -758,7 +758,7 @@ func (m *Lacp_State) Reset()         { *m = Lacp_State{} }
 func (m *Lacp_State) String() string { return proto.CompactTextString(m) }
 func (*Lacp_State) ProtoMessage()    {}
 func (*Lacp_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_lacp_9eb6054709a7a623, []int{0, 2}
+	return fileDescriptor_openconfig_lacp_300197e6ec180583, []int{0, 2}
 }
 func (m *Lacp_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Lacp_State.Unmarshal(m, b)
@@ -802,10 +802,10 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/openconfig_lacp/openconfig_lacp.proto", fileDescriptor_openconfig_lacp_9eb6054709a7a623)
+	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/openconfig_lacp/openconfig_lacp.proto", fileDescriptor_openconfig_lacp_300197e6ec180583)
 }
 
-var fileDescriptor_openconfig_lacp_9eb6054709a7a623 = []byte{
+var fileDescriptor_openconfig_lacp_300197e6ec180583 = []byte{
 	// 1588 bytes of a gzipped FileDescriptorProto
 	0x1f, 0x8b, 0x08, 0x00, 0x00, 0x00, 0x00, 0x00, 0x02, 0xff, 0xb4, 0x58, 0x6d, 0x6c, 0x14, 0xd5,
 	0x1a, 0xce, 0xdc, 0x5b, 0xda, 0xed, 0x69, 0x29, 0xbd, 0x87, 0xcb, 0xcd, 0xb0, 0xf7, 0x03, 0x6e,

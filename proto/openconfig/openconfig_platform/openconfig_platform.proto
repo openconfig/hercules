@@ -10,6 +10,7 @@
 //  - public/release/models/platform/openconfig-platform-port.yang
 //  - public/release/models/platform/openconfig-platform-transceiver.yang
 //  - public/release/models/vlan/openconfig-vlan.yang
+//  - public/release/models/system/openconfig-system.yang
 //  - ../yang/openconfig-hercules-platform-linecard.yang
 //  - ../yang/openconfig-hercules-qos.yang
 //  - ../yang/openconfig-hercules-platform.yang
@@ -211,6 +212,8 @@ message Components {
       ywrapper.UintValue allocated_power = 382835825 [(yext.schemapath) = "/components/component/state/allocated-power"];
       ywrapper.StringValue description = 167549616 [(yext.schemapath) = "/components/component/state/description"];
       ywrapper.BoolValue empty = 433362321 [(yext.schemapath) = "/components/component/state/empty"];
+      ywrapper.BoolValue equipment_failure = 471038183 [(yext.schemapath) = "/components/component/state/equipment-failure"];
+      ywrapper.BoolValue equipment_mismatch = 311608903 [(yext.schemapath) = "/components/component/state/equipment-mismatch"];
       ywrapper.StringValue firmware_version = 244667518 [(yext.schemapath) = "/components/component/state/firmware-version"];
       ywrapper.StringValue hardware_version = 49616205 [(yext.schemapath) = "/components/component/state/hardware-version"];
       ywrapper.StringValue id = 246882465 [(yext.schemapath) = "/components/component/state/id"];

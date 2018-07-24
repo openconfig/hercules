@@ -50,7 +50,7 @@ func (x Qos_Classifiers_Classifier_Config_Type) String() string {
 	return proto.EnumName(Qos_Classifiers_Classifier_Config_Type_name, int32(x))
 }
 func (Qos_Classifiers_Classifier_Config_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 0, 0}
 }
 
 type Qos_Classifiers_Classifier_State_Type int32
@@ -82,7 +82,7 @@ func (x Qos_Classifiers_Classifier_State_Type) String() string {
 	return proto.EnumName(Qos_Classifiers_Classifier_State_Type_name, int32(x))
 }
 func (Qos_Classifiers_Classifier_State_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 1, 0}
 }
 
 type Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_DestinationPort int32
@@ -105,7 +105,7 @@ func (x Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_Destin
 	return proto.EnumName(Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_DestinationPort_name, int32(x))
 }
 func (Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_DestinationPort) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4, 0, 0}
 }
 
 type Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_SourcePort int32
@@ -128,7 +128,7 @@ func (x Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_Source
 	return proto.EnumName(Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_SourcePort_name, int32(x))
 }
 func (Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config_SourcePort) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4, 0, 1}
 }
 
 type Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_DestinationPort int32
@@ -151,7 +151,7 @@ func (x Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_Destina
 	return proto.EnumName(Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_DestinationPort_name, int32(x))
 }
 func (Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_DestinationPort) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4, 1, 0}
 }
 
 type Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_SourcePort int32
@@ -174,7 +174,7 @@ func (x Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_SourceP
 	return proto.EnumName(Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_SourcePort_name, int32(x))
 }
 func (Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State_SourcePort) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4, 1, 1}
 }
 
 type Qos_Interfaces_Interface_Input_Classifers_Classifier_Config_Type int32
@@ -203,7 +203,7 @@ func (x Qos_Interfaces_Interface_Input_Classifers_Classifier_Config_Type) String
 	return proto.EnumName(Qos_Interfaces_Interface_Input_Classifers_Classifier_Config_Type_name, int32(x))
 }
 func (Qos_Interfaces_Interface_Input_Classifers_Classifier_Config_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 0, 0}
 }
 
 type Qos_Interfaces_Interface_Input_Classifers_Classifier_State_Type int32
@@ -232,7 +232,7 @@ func (x Qos_Interfaces_Interface_Input_Classifers_Classifier_State_Type) String(
 	return proto.EnumName(Qos_Interfaces_Interface_Input_Classifers_Classifier_State_Type_name, int32(x))
 }
 func (Qos_Interfaces_Interface_Input_Classifers_Classifier_State_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 1, 0}
 }
 
 type Qos_Interfaces_Interface_Input_Classifers_ClassifierKey_Type int32
@@ -261,7 +261,7 @@ func (x Qos_Interfaces_Interface_Input_Classifers_ClassifierKey_Type) String() s
 	return proto.EnumName(Qos_Interfaces_Interface_Input_Classifers_ClassifierKey_Type_name, int32(x))
 }
 func (Qos_Interfaces_Interface_Input_Classifers_ClassifierKey_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 1, 0}
 }
 
 type Qos_Interfaces_Interface_Output_Classifers_Classifier_Config_Type int32
@@ -290,7 +290,7 @@ func (x Qos_Interfaces_Interface_Output_Classifers_Classifier_Config_Type) Strin
 	return proto.EnumName(Qos_Interfaces_Interface_Output_Classifers_Classifier_Config_Type_name, int32(x))
 }
 func (Qos_Interfaces_Interface_Output_Classifers_Classifier_Config_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 0, 0}
 }
 
 type Qos_Interfaces_Interface_Output_Classifers_Classifier_State_Type int32
@@ -319,7 +319,7 @@ func (x Qos_Interfaces_Interface_Output_Classifers_Classifier_State_Type) String
 	return proto.EnumName(Qos_Interfaces_Interface_Output_Classifers_Classifier_State_Type_name, int32(x))
 }
 func (Qos_Interfaces_Interface_Output_Classifers_Classifier_State_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 1, 0}
 }
 
 type Qos_Interfaces_Interface_Output_Classifers_ClassifierKey_Type int32
@@ -348,7 +348,7 @@ func (x Qos_Interfaces_Interface_Output_Classifers_ClassifierKey_Type) String() 
 	return proto.EnumName(Qos_Interfaces_Interface_Output_Classifers_ClassifierKey_Type_name, int32(x))
 }
 func (Qos_Interfaces_Interface_Output_Classifers_ClassifierKey_Type) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 1, 0}
 }
 
 type Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config_Priority int32
@@ -371,7 +371,7 @@ func (x Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config_Priori
 	return proto.EnumName(Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config_Priority_name, int32(x))
 }
 func (Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config_Priority) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 0, 0}
 }
 
 type Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config_InputType int32
@@ -400,7 +400,7 @@ func (x Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_
 	return proto.EnumName(Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config_InputType_name, int32(x))
 }
 func (Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config_InputType) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1, 0, 0, 0}
 }
 
 type Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State_InputType int32
@@ -429,7 +429,7 @@ func (x Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_
 	return proto.EnumName(Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State_InputType_name, int32(x))
 }
 func (Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State_InputType) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1, 0, 1, 0}
 }
 
 type Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config_OutputType int32
@@ -458,7 +458,7 @@ func (x Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config
 	return proto.EnumName(Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config_OutputType_name, int32(x))
 }
 func (Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config_OutputType) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 3, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 3, 0, 0}
 }
 
 type Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State_OutputType int32
@@ -487,7 +487,7 @@ func (x Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State_
 	return proto.EnumName(Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State_OutputType_name, int32(x))
 }
 func (Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State_OutputType) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 3, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 3, 1, 0}
 }
 
 type Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State_Priority int32
@@ -510,7 +510,7 @@ func (x Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State_Priorit
 	return proto.EnumName(Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State_Priority_name, int32(x))
 }
 func (Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State_Priority) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 4, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 4, 0}
 }
 
 type Qos struct {
@@ -530,7 +530,7 @@ func (m *Qos) Reset()         { *m = Qos{} }
 func (m *Qos) String() string { return proto.CompactTextString(m) }
 func (*Qos) ProtoMessage()    {}
 func (*Qos) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0}
 }
 func (m *Qos) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos.Unmarshal(m, b)
@@ -610,7 +610,7 @@ func (m *Qos_Classifiers) Reset()         { *m = Qos_Classifiers{} }
 func (m *Qos_Classifiers) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers) ProtoMessage()    {}
 func (*Qos_Classifiers) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0}
 }
 func (m *Qos_Classifiers) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers.Unmarshal(m, b)
@@ -650,7 +650,7 @@ func (m *Qos_Classifiers_Classifier) Reset()         { *m = Qos_Classifiers_Clas
 func (m *Qos_Classifiers_Classifier) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_Classifier) ProtoMessage()    {}
 func (*Qos_Classifiers_Classifier) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0}
 }
 func (m *Qos_Classifiers_Classifier) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier.Unmarshal(m, b)
@@ -703,7 +703,7 @@ func (m *Qos_Classifiers_Classifier_Config) Reset()         { *m = Qos_Classifie
 func (m *Qos_Classifiers_Classifier_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_Classifier_Config) ProtoMessage()    {}
 func (*Qos_Classifiers_Classifier_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 0}
 }
 func (m *Qos_Classifiers_Classifier_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Config.Unmarshal(m, b)
@@ -749,7 +749,7 @@ func (m *Qos_Classifiers_Classifier_State) Reset()         { *m = Qos_Classifier
 func (m *Qos_Classifiers_Classifier_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_Classifier_State) ProtoMessage()    {}
 func (*Qos_Classifiers_Classifier_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 1}
 }
 func (m *Qos_Classifiers_Classifier_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_State.Unmarshal(m, b)
@@ -794,7 +794,7 @@ func (m *Qos_Classifiers_Classifier_Terms) Reset()         { *m = Qos_Classifier
 func (m *Qos_Classifiers_Classifier_Terms) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_Classifier_Terms) ProtoMessage()    {}
 func (*Qos_Classifiers_Classifier_Terms) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2}
 }
 func (m *Qos_Classifiers_Classifier_Terms) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms.Unmarshal(m, b)
@@ -835,7 +835,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term) Reset()         { *m = Qos_Class
 func (m *Qos_Classifiers_Classifier_Terms_Term) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_Classifier_Terms_Term) ProtoMessage()    {}
 func (*Qos_Classifiers_Classifier_Terms_Term) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term.Unmarshal(m, b)
@@ -900,7 +900,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Actions) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Actions) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Actions.Unmarshal(m, b)
@@ -956,7 +956,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Config) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 0, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Actions_Config.Unmarshal(m, b)
@@ -999,7 +999,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Remark) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Remark) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Remark) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 0, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Remark) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Actions_Remark.Unmarshal(m, b)
@@ -1050,7 +1050,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_Config) String() s
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 0, 1, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_Config.Unmarshal(m, b)
@@ -1108,7 +1108,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_State) String() st
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 0, 1, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Actions_Remark_State.Unmarshal(m, b)
@@ -1164,7 +1164,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_State) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Actions_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 0, 2}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Actions_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Actions_State.Unmarshal(m, b)
@@ -1210,7 +1210,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions.Unmarshal(m, b)
@@ -1281,7 +1281,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4) String() string 
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4.Unmarshal(m, b)
@@ -1337,7 +1337,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_Config) String() 
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 0, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_Config.Unmarshal(m, b)
@@ -1508,7 +1508,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_State) String() s
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 0, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv4_State.Unmarshal(m, b)
@@ -1673,7 +1673,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6) String() string 
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6.Unmarshal(m, b)
@@ -1731,7 +1731,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_Config) String() 
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 1, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_Config.Unmarshal(m, b)
@@ -1918,7 +1918,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_State) String() s
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 1, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Ipv6_State.Unmarshal(m, b)
@@ -2097,7 +2097,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_L2) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_L2) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_L2) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 2}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_L2) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_L2.Unmarshal(m, b)
@@ -2153,7 +2153,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_Config) String() st
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 2, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_Config.Unmarshal(m, b)
@@ -2324,7 +2324,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_State) String() str
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 2, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_L2_State.Unmarshal(m, b)
@@ -2489,7 +2489,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls) String() string 
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 3}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls.Unmarshal(m, b)
@@ -2538,7 +2538,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_Config) String() 
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 3, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_Config.Unmarshal(m, b)
@@ -2580,7 +2580,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_State) String() s
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 3, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Mpls_State.Unmarshal(m, b)
@@ -2623,7 +2623,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport) String() st
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport.Unmarshal(m, b)
@@ -2682,7 +2682,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config) Stri
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4, 0}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_Config.Unmarshal(m, b)
@@ -2962,7 +2962,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State) Strin
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 1, 4, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 1, 4, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Conditions_Transport_State.Unmarshal(m, b)
@@ -3232,7 +3232,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_Config) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_Config) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 2}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_Config.Unmarshal(m, b)
@@ -3274,7 +3274,7 @@ func (m *Qos_Classifiers_Classifier_Terms_Term_State) String() string {
 }
 func (*Qos_Classifiers_Classifier_Terms_Term_State) ProtoMessage() {}
 func (*Qos_Classifiers_Classifier_Terms_Term_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 0, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 0, 3}
 }
 func (m *Qos_Classifiers_Classifier_Terms_Term_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_Term_State.Unmarshal(m, b)
@@ -3315,7 +3315,7 @@ func (m *Qos_Classifiers_Classifier_Terms_TermKey) Reset() {
 func (m *Qos_Classifiers_Classifier_Terms_TermKey) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_Classifier_Terms_TermKey) ProtoMessage()    {}
 func (*Qos_Classifiers_Classifier_Terms_TermKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 0, 2, 1}
 }
 func (m *Qos_Classifiers_Classifier_Terms_TermKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_Classifier_Terms_TermKey.Unmarshal(m, b)
@@ -3361,7 +3361,7 @@ func (m *Qos_Classifiers_ClassifierKey) Reset()         { *m = Qos_Classifiers_C
 func (m *Qos_Classifiers_ClassifierKey) String() string { return proto.CompactTextString(m) }
 func (*Qos_Classifiers_ClassifierKey) ProtoMessage()    {}
 func (*Qos_Classifiers_ClassifierKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 0, 1}
 }
 func (m *Qos_Classifiers_ClassifierKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Classifiers_ClassifierKey.Unmarshal(m, b)
@@ -3405,7 +3405,7 @@ func (m *Qos_Config) Reset()         { *m = Qos_Config{} }
 func (m *Qos_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Config) ProtoMessage()    {}
 func (*Qos_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 1}
 }
 func (m *Qos_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Config.Unmarshal(m, b)
@@ -3436,7 +3436,7 @@ func (m *Qos_ForwardingGroups) Reset()         { *m = Qos_ForwardingGroups{} }
 func (m *Qos_ForwardingGroups) String() string { return proto.CompactTextString(m) }
 func (*Qos_ForwardingGroups) ProtoMessage()    {}
 func (*Qos_ForwardingGroups) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 2}
 }
 func (m *Qos_ForwardingGroups) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_ForwardingGroups.Unmarshal(m, b)
@@ -3475,7 +3475,7 @@ func (m *Qos_ForwardingGroups_ForwardingGroup) Reset()         { *m = Qos_Forwar
 func (m *Qos_ForwardingGroups_ForwardingGroup) String() string { return proto.CompactTextString(m) }
 func (*Qos_ForwardingGroups_ForwardingGroup) ProtoMessage()    {}
 func (*Qos_ForwardingGroups_ForwardingGroup) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 2, 0}
 }
 func (m *Qos_ForwardingGroups_ForwardingGroup) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_ForwardingGroups_ForwardingGroup.Unmarshal(m, b)
@@ -3526,7 +3526,7 @@ func (m *Qos_ForwardingGroups_ForwardingGroup_Config) String() string {
 }
 func (*Qos_ForwardingGroups_ForwardingGroup_Config) ProtoMessage() {}
 func (*Qos_ForwardingGroups_ForwardingGroup_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 2, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 2, 0, 0}
 }
 func (m *Qos_ForwardingGroups_ForwardingGroup_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_ForwardingGroups_ForwardingGroup_Config.Unmarshal(m, b)
@@ -3584,7 +3584,7 @@ func (m *Qos_ForwardingGroups_ForwardingGroup_State) String() string {
 }
 func (*Qos_ForwardingGroups_ForwardingGroup_State) ProtoMessage() {}
 func (*Qos_ForwardingGroups_ForwardingGroup_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 2, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 2, 0, 1}
 }
 func (m *Qos_ForwardingGroups_ForwardingGroup_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_ForwardingGroups_ForwardingGroup_State.Unmarshal(m, b)
@@ -3639,7 +3639,7 @@ func (m *Qos_ForwardingGroups_ForwardingGroupKey) Reset() {
 func (m *Qos_ForwardingGroups_ForwardingGroupKey) String() string { return proto.CompactTextString(m) }
 func (*Qos_ForwardingGroups_ForwardingGroupKey) ProtoMessage()    {}
 func (*Qos_ForwardingGroups_ForwardingGroupKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 2, 1}
 }
 func (m *Qos_ForwardingGroups_ForwardingGroupKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_ForwardingGroups_ForwardingGroupKey.Unmarshal(m, b)
@@ -3684,7 +3684,7 @@ func (m *Qos_Interfaces) Reset()         { *m = Qos_Interfaces{} }
 func (m *Qos_Interfaces) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces) ProtoMessage()    {}
 func (*Qos_Interfaces) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3}
 }
 func (m *Qos_Interfaces) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces.Unmarshal(m, b)
@@ -3726,7 +3726,7 @@ func (m *Qos_Interfaces_Interface) Reset()         { *m = Qos_Interfaces_Interfa
 func (m *Qos_Interfaces_Interface) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0}
 }
 func (m *Qos_Interfaces_Interface) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface.Unmarshal(m, b)
@@ -3792,7 +3792,7 @@ func (m *Qos_Interfaces_Interface_Config) Reset()         { *m = Qos_Interfaces_
 func (m *Qos_Interfaces_Interface_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Config) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Config.Unmarshal(m, b)
@@ -3835,7 +3835,7 @@ func (m *Qos_Interfaces_Interface_Input) Reset()         { *m = Qos_Interfaces_I
 func (m *Qos_Interfaces_Interface_Input) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Input) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Input) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input.Unmarshal(m, b)
@@ -3910,7 +3910,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers) Reset() {
 func (m *Qos_Interfaces_Interface_Input_Classifers) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Input_Classifers) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Input_Classifers) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers.Unmarshal(m, b)
@@ -3954,7 +3954,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier.Unmarshal(m, b)
@@ -4011,7 +4011,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Config) String() s
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_Config.Unmarshal(m, b)
@@ -4061,7 +4061,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_State) String() st
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_State.Unmarshal(m, b)
@@ -4110,7 +4110,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms) String() st
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 2}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms.Unmarshal(m, b)
@@ -4153,7 +4153,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term) String
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 2, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term.Unmarshal(m, b)
@@ -4202,7 +4202,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_Config)
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 2, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_Config.Unmarshal(m, b)
@@ -4246,7 +4246,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_State) 
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 2, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_Term_State.Unmarshal(m, b)
@@ -4303,7 +4303,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_TermKey) Str
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_TermKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_TermKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 0, 2, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_TermKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_Classifier_Terms_TermKey.Unmarshal(m, b)
@@ -4353,7 +4353,7 @@ func (m *Qos_Interfaces_Interface_Input_Classifers_ClassifierKey) String() strin
 }
 func (*Qos_Interfaces_Interface_Input_Classifers_ClassifierKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Classifers_ClassifierKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Classifers_ClassifierKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Classifers_ClassifierKey.Unmarshal(m, b)
@@ -4397,7 +4397,7 @@ func (m *Qos_Interfaces_Interface_Input_Config) Reset()         { *m = Qos_Inter
 func (m *Qos_Interfaces_Interface_Input_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Input_Config) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Input_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Config.Unmarshal(m, b)
@@ -4428,7 +4428,7 @@ func (m *Qos_Interfaces_Interface_Input_Queues) Reset()         { *m = Qos_Inter
 func (m *Qos_Interfaces_Interface_Input_Queues) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Input_Queues) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Input_Queues) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 2}
 }
 func (m *Qos_Interfaces_Interface_Input_Queues) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Queues.Unmarshal(m, b)
@@ -4471,7 +4471,7 @@ func (m *Qos_Interfaces_Interface_Input_Queues_Queue) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_Queues_Queue) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Queues_Queue) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 2, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Queues_Queue) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Queues_Queue.Unmarshal(m, b)
@@ -4520,7 +4520,7 @@ func (m *Qos_Interfaces_Interface_Input_Queues_Queue_Config) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_Queues_Queue_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Queues_Queue_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 2, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 2, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_Queues_Queue_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Queues_Queue_Config.Unmarshal(m, b)
@@ -4568,7 +4568,7 @@ func (m *Qos_Interfaces_Interface_Input_Queues_Queue_State) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_Queues_Queue_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Queues_Queue_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 2, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 2, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Queues_Queue_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Queues_Queue_State.Unmarshal(m, b)
@@ -4653,7 +4653,7 @@ func (m *Qos_Interfaces_Interface_Input_Queues_QueueKey) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_Queues_QueueKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_Queues_QueueKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 2, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_Queues_QueueKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_Queues_QueueKey.Unmarshal(m, b)
@@ -4704,7 +4704,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy.Unmarshal(m, b)
@@ -4760,7 +4760,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Config) String() string 
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy_Config.Unmarshal(m, b)
@@ -4802,7 +4802,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers) String() str
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers.Unmarshal(m, b)
@@ -4844,7 +4844,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler) St
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3, 1, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler.Unmarshal(m, b)
@@ -4892,7 +4892,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler_Sta
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3, 1, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_Scheduler_State.Unmarshal(m, b)
@@ -4977,7 +4977,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_SchedulerKey)
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_SchedulerKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_SchedulerKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3, 1, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_SchedulerKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy_Schedulers_SchedulerKey.Unmarshal(m, b)
@@ -5026,7 +5026,7 @@ func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_State) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_SchedulerPolicy_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 3, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 3, 2}
 }
 func (m *Qos_Interfaces_Interface_Input_SchedulerPolicy_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_SchedulerPolicy_State.Unmarshal(m, b)
@@ -5063,7 +5063,7 @@ func (m *Qos_Interfaces_Interface_Input_State) Reset()         { *m = Qos_Interf
 func (m *Qos_Interfaces_Interface_Input_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Input_State) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Input_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 4}
 }
 func (m *Qos_Interfaces_Interface_Input_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_State.Unmarshal(m, b)
@@ -5098,7 +5098,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues) String() string {
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues.Unmarshal(m, b)
@@ -5142,7 +5142,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface) String
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface.Unmarshal(m, b)
@@ -5198,7 +5198,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Config)
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Config.Unmarshal(m, b)
@@ -5240,7 +5240,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues)
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues.Unmarshal(m, b)
@@ -5283,7 +5283,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 1, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue.Unmarshal(m, b)
@@ -5333,7 +5333,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_Config) ProtoMessage() {
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 1, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_Config.Unmarshal(m, b)
@@ -5381,7 +5381,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_State) ProtoMessage() {
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 1, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 1, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_Queue_State.Unmarshal(m, b)
@@ -5460,7 +5460,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_QueueKey) ProtoMessage() {
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_QueueKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 1, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_QueueKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_Queues_QueueKey.Unmarshal(m, b)
@@ -5509,7 +5509,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_State) 
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 0, 2}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterface_State.Unmarshal(m, b)
@@ -5552,7 +5552,7 @@ func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterfaceKey) Str
 }
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterfaceKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterfaceKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 1, 5, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 1, 5, 1}
 }
 func (m *Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterfaceKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Input_VirtualOutputQueues_VoqInterfaceKey.Unmarshal(m, b)
@@ -5598,7 +5598,7 @@ func (m *Qos_Interfaces_Interface_InterfaceRef) Reset()         { *m = Qos_Inter
 func (m *Qos_Interfaces_Interface_InterfaceRef) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_InterfaceRef) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_InterfaceRef) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 2}
 }
 func (m *Qos_Interfaces_Interface_InterfaceRef) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_InterfaceRef.Unmarshal(m, b)
@@ -5648,7 +5648,7 @@ func (m *Qos_Interfaces_Interface_InterfaceRef_Config) String() string {
 }
 func (*Qos_Interfaces_Interface_InterfaceRef_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_InterfaceRef_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 2, 0}
 }
 func (m *Qos_Interfaces_Interface_InterfaceRef_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_InterfaceRef_Config.Unmarshal(m, b)
@@ -5698,7 +5698,7 @@ func (m *Qos_Interfaces_Interface_InterfaceRef_State) String() string {
 }
 func (*Qos_Interfaces_Interface_InterfaceRef_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_InterfaceRef_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 2, 1}
 }
 func (m *Qos_Interfaces_Interface_InterfaceRef_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_InterfaceRef_State.Unmarshal(m, b)
@@ -5748,7 +5748,7 @@ func (m *Qos_Interfaces_Interface_Output) Reset()         { *m = Qos_Interfaces_
 func (m *Qos_Interfaces_Interface_Output) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Output) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Output) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3}
 }
 func (m *Qos_Interfaces_Interface_Output) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output.Unmarshal(m, b)
@@ -5825,7 +5825,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_Classifers) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers.Unmarshal(m, b)
@@ -5869,7 +5869,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier) String() string 
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier.Unmarshal(m, b)
@@ -5926,7 +5926,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Config) String() 
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_Config.Unmarshal(m, b)
@@ -5976,7 +5976,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_State) String() s
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_State.Unmarshal(m, b)
@@ -6025,7 +6025,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms) String() s
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 2}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms.Unmarshal(m, b)
@@ -6068,7 +6068,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term) Strin
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 2, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term.Unmarshal(m, b)
@@ -6117,7 +6117,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_Config
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 2, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_Config.Unmarshal(m, b)
@@ -6161,7 +6161,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_State)
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 2, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_Term_State.Unmarshal(m, b)
@@ -6218,7 +6218,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_TermKey) St
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_TermKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_TermKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 0, 2, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_TermKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_Classifier_Terms_TermKey.Unmarshal(m, b)
@@ -6268,7 +6268,7 @@ func (m *Qos_Interfaces_Interface_Output_Classifers_ClassifierKey) String() stri
 }
 func (*Qos_Interfaces_Interface_Output_Classifers_ClassifierKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Classifers_ClassifierKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Classifers_ClassifierKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Classifers_ClassifierKey.Unmarshal(m, b)
@@ -6314,7 +6314,7 @@ func (m *Qos_Interfaces_Interface_Output_Config) Reset() {
 func (m *Qos_Interfaces_Interface_Output_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Output_Config) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Output_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Config.Unmarshal(m, b)
@@ -6350,7 +6350,7 @@ func (m *Qos_Interfaces_Interface_Output_InterfaceRef) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_InterfaceRef) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_InterfaceRef) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 2}
 }
 func (m *Qos_Interfaces_Interface_Output_InterfaceRef) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_InterfaceRef.Unmarshal(m, b)
@@ -6400,7 +6400,7 @@ func (m *Qos_Interfaces_Interface_Output_InterfaceRef_Config) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_InterfaceRef_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_InterfaceRef_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 2, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_InterfaceRef_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_InterfaceRef_Config.Unmarshal(m, b)
@@ -6450,7 +6450,7 @@ func (m *Qos_Interfaces_Interface_Output_InterfaceRef_State) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_InterfaceRef_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_InterfaceRef_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 2, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_InterfaceRef_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_InterfaceRef_State.Unmarshal(m, b)
@@ -6497,7 +6497,7 @@ func (m *Qos_Interfaces_Interface_Output_Queues) Reset() {
 func (m *Qos_Interfaces_Interface_Output_Queues) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Output_Queues) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Output_Queues) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 3}
 }
 func (m *Qos_Interfaces_Interface_Output_Queues) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Queues.Unmarshal(m, b)
@@ -6540,7 +6540,7 @@ func (m *Qos_Interfaces_Interface_Output_Queues_Queue) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_Queues_Queue) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Queues_Queue) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 3, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Queues_Queue) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Queues_Queue.Unmarshal(m, b)
@@ -6589,7 +6589,7 @@ func (m *Qos_Interfaces_Interface_Output_Queues_Queue_Config) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_Queues_Queue_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Queues_Queue_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 3, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 3, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_Queues_Queue_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Queues_Queue_Config.Unmarshal(m, b)
@@ -6637,7 +6637,7 @@ func (m *Qos_Interfaces_Interface_Output_Queues_Queue_State) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_Queues_Queue_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Queues_Queue_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 3, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 3, 0, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Queues_Queue_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Queues_Queue_State.Unmarshal(m, b)
@@ -6722,7 +6722,7 @@ func (m *Qos_Interfaces_Interface_Output_Queues_QueueKey) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_Queues_QueueKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_Queues_QueueKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 3, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_Queues_QueueKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_Queues_QueueKey.Unmarshal(m, b)
@@ -6773,7 +6773,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy) String() string {
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy.Unmarshal(m, b)
@@ -6829,7 +6829,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Config) String() string
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Config) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy_Config.Unmarshal(m, b)
@@ -6871,7 +6871,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers) String() st
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers.Unmarshal(m, b)
@@ -6913,7 +6913,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler) S
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4, 1, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler.Unmarshal(m, b)
@@ -6961,7 +6961,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler_St
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4, 1, 0, 0}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_Scheduler_State.Unmarshal(m, b)
@@ -7046,7 +7046,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_SchedulerKey
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_SchedulerKey) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_SchedulerKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4, 1, 1}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_SchedulerKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy_Schedulers_SchedulerKey.Unmarshal(m, b)
@@ -7095,7 +7095,7 @@ func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_State) String() string 
 }
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_State) ProtoMessage() {}
 func (*Qos_Interfaces_Interface_Output_SchedulerPolicy_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 4, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 4, 2}
 }
 func (m *Qos_Interfaces_Interface_Output_SchedulerPolicy_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_SchedulerPolicy_State.Unmarshal(m, b)
@@ -7132,7 +7132,7 @@ func (m *Qos_Interfaces_Interface_Output_State) Reset()         { *m = Qos_Inter
 func (m *Qos_Interfaces_Interface_Output_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_Output_State) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_Output_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 3, 5}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 3, 5}
 }
 func (m *Qos_Interfaces_Interface_Output_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_Output_State.Unmarshal(m, b)
@@ -7163,7 +7163,7 @@ func (m *Qos_Interfaces_Interface_State) Reset()         { *m = Qos_Interfaces_I
 func (m *Qos_Interfaces_Interface_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_Interface_State) ProtoMessage()    {}
 func (*Qos_Interfaces_Interface_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 0, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 0, 4}
 }
 func (m *Qos_Interfaces_Interface_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_Interface_State.Unmarshal(m, b)
@@ -7202,7 +7202,7 @@ func (m *Qos_Interfaces_InterfaceKey) Reset()         { *m = Qos_Interfaces_Inte
 func (m *Qos_Interfaces_InterfaceKey) String() string { return proto.CompactTextString(m) }
 func (*Qos_Interfaces_InterfaceKey) ProtoMessage()    {}
 func (*Qos_Interfaces_InterfaceKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 3, 1}
 }
 func (m *Qos_Interfaces_InterfaceKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Interfaces_InterfaceKey.Unmarshal(m, b)
@@ -7247,7 +7247,7 @@ func (m *Qos_Queues) Reset()         { *m = Qos_Queues{} }
 func (m *Qos_Queues) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues) ProtoMessage()    {}
 func (*Qos_Queues) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4}
 }
 func (m *Qos_Queues) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues.Unmarshal(m, b)
@@ -7288,7 +7288,7 @@ func (m *Qos_Queues_Queue) Reset()         { *m = Qos_Queues_Queue{} }
 func (m *Qos_Queues_Queue) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue) ProtoMessage()    {}
 func (*Qos_Queues_Queue) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0}
 }
 func (m *Qos_Queues_Queue) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue.Unmarshal(m, b)
@@ -7349,7 +7349,7 @@ func (m *Qos_Queues_Queue_Config) Reset()         { *m = Qos_Queues_Queue_Config
 func (m *Qos_Queues_Queue_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Config) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 0}
 }
 func (m *Qos_Queues_Queue_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Config.Unmarshal(m, b)
@@ -7402,7 +7402,7 @@ func (m *Qos_Queues_Queue_Red) Reset()         { *m = Qos_Queues_Queue_Red{} }
 func (m *Qos_Queues_Queue_Red) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Red) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Red) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 1}
 }
 func (m *Qos_Queues_Queue_Red) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Red.Unmarshal(m, b)
@@ -7448,7 +7448,7 @@ func (m *Qos_Queues_Queue_Red_Config) Reset()         { *m = Qos_Queues_Queue_Re
 func (m *Qos_Queues_Queue_Red_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Red_Config) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Red_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 1, 0}
 }
 func (m *Qos_Queues_Queue_Red_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Red_Config.Unmarshal(m, b)
@@ -7494,7 +7494,7 @@ func (m *Qos_Queues_Queue_Red_State) Reset()         { *m = Qos_Queues_Queue_Red
 func (m *Qos_Queues_Queue_Red_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Red_State) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Red_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 1, 1}
 }
 func (m *Qos_Queues_Queue_Red_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Red_State.Unmarshal(m, b)
@@ -7541,7 +7541,7 @@ func (m *Qos_Queues_Queue_State) Reset()         { *m = Qos_Queues_Queue_State{}
 func (m *Qos_Queues_Queue_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_State) ProtoMessage()    {}
 func (*Qos_Queues_Queue_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 2}
 }
 func (m *Qos_Queues_Queue_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_State.Unmarshal(m, b)
@@ -7594,7 +7594,7 @@ func (m *Qos_Queues_Queue_Wred) Reset()         { *m = Qos_Queues_Queue_Wred{} }
 func (m *Qos_Queues_Queue_Wred) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Wred) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Wred) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 3}
 }
 func (m *Qos_Queues_Queue_Wred) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Wred.Unmarshal(m, b)
@@ -7638,7 +7638,7 @@ func (m *Qos_Queues_Queue_Wred_Config) Reset()         { *m = Qos_Queues_Queue_W
 func (m *Qos_Queues_Queue_Wred_Config) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Wred_Config) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Wred_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 3, 0}
 }
 func (m *Qos_Queues_Queue_Wred_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Wred_Config.Unmarshal(m, b)
@@ -7668,7 +7668,7 @@ func (m *Qos_Queues_Queue_Wred_State) Reset()         { *m = Qos_Queues_Queue_Wr
 func (m *Qos_Queues_Queue_Wred_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_Queue_Wred_State) ProtoMessage()    {}
 func (*Qos_Queues_Queue_Wred_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 0, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 0, 3, 1}
 }
 func (m *Qos_Queues_Queue_Wred_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_Queue_Wred_State.Unmarshal(m, b)
@@ -7700,7 +7700,7 @@ func (m *Qos_Queues_QueueKey) Reset()         { *m = Qos_Queues_QueueKey{} }
 func (m *Qos_Queues_QueueKey) String() string { return proto.CompactTextString(m) }
 func (*Qos_Queues_QueueKey) ProtoMessage()    {}
 func (*Qos_Queues_QueueKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 4, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 4, 1}
 }
 func (m *Qos_Queues_QueueKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_Queues_QueueKey.Unmarshal(m, b)
@@ -7745,7 +7745,7 @@ func (m *Qos_SchedulerPolicies) Reset()         { *m = Qos_SchedulerPolicies{} }
 func (m *Qos_SchedulerPolicies) String() string { return proto.CompactTextString(m) }
 func (*Qos_SchedulerPolicies) ProtoMessage()    {}
 func (*Qos_SchedulerPolicies) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5}
 }
 func (m *Qos_SchedulerPolicies) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies.Unmarshal(m, b)
@@ -7785,7 +7785,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy) Reset()         { *m = Qos_Sched
 func (m *Qos_SchedulerPolicies_SchedulerPolicy) String() string { return proto.CompactTextString(m) }
 func (*Qos_SchedulerPolicies_SchedulerPolicy) ProtoMessage()    {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy.Unmarshal(m, b)
@@ -7841,7 +7841,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Config) String() string {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Config) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Config.Unmarshal(m, b)
@@ -7883,7 +7883,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers) String() string {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers.Unmarshal(m, b)
@@ -7930,7 +7930,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler) String() st
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler.Unmarshal(m, b)
@@ -8009,7 +8009,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config) Stri
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Config.Unmarshal(m, b)
@@ -8065,7 +8065,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs) Stri
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs.Unmarshal(m, b)
@@ -8108,7 +8108,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input.Unmarshal(m, b)
@@ -8161,7 +8161,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1, 0, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_Config.Unmarshal(m, b)
@@ -8227,7 +8227,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1, 0, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1, 0, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input_State.Unmarshal(m, b)
@@ -8291,7 +8291,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_Input
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_InputKey) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_InputKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 1, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_InputKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Inputs_InputKey.Unmarshal(m, b)
@@ -8343,7 +8343,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor.Unmarshal(m, b)
@@ -8414,7 +8414,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_Config.Unmarshal(m, b)
@@ -8507,7 +8507,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction.Unmarshal(m, b)
@@ -8559,7 +8559,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 1, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_Config.Unmarshal(m, b)
@@ -8618,7 +8618,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 1, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ConformAction_State.Unmarshal(m, b)
@@ -8676,7 +8676,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 2}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction.Unmarshal(m, b)
@@ -8729,7 +8729,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 2, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_Config.Unmarshal(m, b)
@@ -8796,7 +8796,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 2, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_ExceedAction_State.Unmarshal(m, b)
@@ -8867,7 +8867,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoCo
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 2, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 2, 3}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_OneRateTwoColor_State.Unmarshal(m, b)
@@ -8959,7 +8959,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output) Stri
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 3}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output.Unmarshal(m, b)
@@ -9010,7 +9010,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Confi
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 3, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 3, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_Config.Unmarshal(m, b)
@@ -9068,7 +9068,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 3, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 3, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_Output_State.Unmarshal(m, b)
@@ -9126,7 +9126,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State) Strin
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 4}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_State.Unmarshal(m, b)
@@ -9186,7 +9186,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor.Unmarshal(m, b)
@@ -9264,7 +9264,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_Config.Unmarshal(m, b)
@@ -9357,7 +9357,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction.Unmarshal(m, b)
@@ -9409,7 +9409,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 1, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 1, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_Config.Unmarshal(m, b)
@@ -9468,7 +9468,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 1, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ConformAction_State.Unmarshal(m, b)
@@ -9526,7 +9526,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 2}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction.Unmarshal(m, b)
@@ -9579,7 +9579,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 2, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 2, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_Config.Unmarshal(m, b)
@@ -9646,7 +9646,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 2, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 2, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ExceedAction_State.Unmarshal(m, b)
@@ -9717,7 +9717,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 3}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 3}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_State.Unmarshal(m, b)
@@ -9810,7 +9810,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 4}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 4}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction.Unmarshal(m, b)
@@ -9863,7 +9863,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_Config) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 4, 0}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 4, 0}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_Config.Unmarshal(m, b)
@@ -9930,7 +9930,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThree
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_State) ProtoMessage() {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 0, 5, 4, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 0, 5, 4, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_Scheduler_TwoRateThreeColor_ViolateAction_State.Unmarshal(m, b)
@@ -9994,7 +9994,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_SchedulerKey) String()
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_SchedulerKey) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_SchedulerKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 1, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 1, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_SchedulerKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_Schedulers_SchedulerKey.Unmarshal(m, b)
@@ -10043,7 +10043,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicy_State) String() string {
 }
 func (*Qos_SchedulerPolicies_SchedulerPolicy_State) ProtoMessage() {}
 func (*Qos_SchedulerPolicies_SchedulerPolicy_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 0, 2}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 0, 2}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicy_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicy_State.Unmarshal(m, b)
@@ -10084,7 +10084,7 @@ func (m *Qos_SchedulerPolicies_SchedulerPolicyKey) Reset() {
 func (m *Qos_SchedulerPolicies_SchedulerPolicyKey) String() string { return proto.CompactTextString(m) }
 func (*Qos_SchedulerPolicies_SchedulerPolicyKey) ProtoMessage()    {}
 func (*Qos_SchedulerPolicies_SchedulerPolicyKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 5, 1}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 5, 1}
 }
 func (m *Qos_SchedulerPolicies_SchedulerPolicyKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_SchedulerPolicies_SchedulerPolicyKey.Unmarshal(m, b)
@@ -10128,7 +10128,7 @@ func (m *Qos_State) Reset()         { *m = Qos_State{} }
 func (m *Qos_State) String() string { return proto.CompactTextString(m) }
 func (*Qos_State) ProtoMessage()    {}
 func (*Qos_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_qos_ffa41d2b63c4ab73, []int{0, 6}
+	return fileDescriptor_openconfig_qos_7d52aadd21f167d9, []int{0, 6}
 }
 func (m *Qos_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Qos_State.Unmarshal(m, b)
@@ -10331,10 +10331,10 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/openconfig_qos/openconfig_qos.proto", fileDescriptor_openconfig_qos_ffa41d2b63c4ab73)
+	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/openconfig_qos/openconfig_qos.proto", fileDescriptor_openconfig_qos_7d52aadd21f167d9)
 }
 
-var fileDescriptor_openconfig_qos_ffa41d2b63c4ab73 = []byte{
+var fileDescriptor_openconfig_qos_7d52aadd21f167d9 = []byte{
 	// 10816 bytes of a gzipped FileDescriptorProto
 	0x1f, 0x8b, 0x08, 0x00, 0x00, 0x00, 0x00, 0x00, 0x02, 0xff, 0xdc, 0x7d, 0x79, 0x7c, 0x14, 0x45,
 	0xda, 0xff, 0x76, 0x08, 0x47, 0x0a, 0x48, 0x42, 0x8b, 0x3a, 0x3b, 0xfb, 0xae, 0xeb, 0xe2, 0xb1,

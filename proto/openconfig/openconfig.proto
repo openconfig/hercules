@@ -10,6 +10,7 @@
 //  - public/release/models/platform/openconfig-platform-port.yang
 //  - public/release/models/platform/openconfig-platform-transceiver.yang
 //  - public/release/models/vlan/openconfig-vlan.yang
+//  - public/release/models/system/openconfig-system.yang
 //  - ../yang/openconfig-hercules-platform-linecard.yang
 //  - ../yang/openconfig-hercules-qos.yang
 //  - ../yang/openconfig-hercules-platform.yang
@@ -32,6 +33,7 @@ import "github.com/openconfig/hercules/proto/openconfig/openconfig_interfaces/op
 import "github.com/openconfig/hercules/proto/openconfig/openconfig_lacp/openconfig_lacp.proto";
 import "github.com/openconfig/hercules/proto/openconfig/openconfig_platform/openconfig_platform.proto";
 import "github.com/openconfig/hercules/proto/openconfig/openconfig_qos/openconfig_qos.proto";
+import "github.com/openconfig/hercules/proto/openconfig/openconfig_system/openconfig_system.proto";
 
 message Device {
   openconfig_platform.Components components = 41347061 [(yext.schemapath) = "/components"];
@@ -39,4 +41,5 @@ message Device {
   openconfig_interfaces.Interfaces interfaces = 85031486 [(yext.schemapath) = "/interfaces"];
   openconfig_lacp.Lacp lacp = 421806598 [(yext.schemapath) = "/lacp"];
   openconfig_qos.Qos qos = 11016188 [(yext.schemapath) = "/qos"];
+  openconfig_system.System system = 468934236 [(yext.schemapath) = "/system"];
 }

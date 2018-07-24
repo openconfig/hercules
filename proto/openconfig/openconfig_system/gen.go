@@ -13,9 +13,9 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// Package openconfig_openconfig_qos contains code generated from the OpenConfig
-// QoS protobuf for Hercules.
-package openconfig_openconfig_qos
+// Package openconfig_openconfig_system contains code generated from the OpenConfig
+// system protobuf for Hercules.
+package openconfig_openconfig_system
 
 // pb.go can be generated with go generate.
-//go:generate sh -c "cd $GOPATH/src && protoc --proto_path=. --go_out=:. github.com/openconfig/hercules/proto/openconfig/openconfig_qos/openconfig_qos.proto"
+//go:generate sh -c "cd $GOPATH/src && protoc --proto_path=. --go_out=:. github.com/openconfig/hercules/proto/openconfig/openconfig_system/openconfig_system.proto"

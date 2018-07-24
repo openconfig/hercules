@@ -44,7 +44,7 @@ func (x Interfaces_Interface_Config_HealthIndicator) String() string {
 	return proto.EnumName(Interfaces_Interface_Config_HealthIndicator_name, int32(x))
 }
 func (Interfaces_Interface_Config_HealthIndicator) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 1, 0}
 }
 
 type Interfaces_Interface_Ethernet_Config_DuplexMode int32
@@ -70,7 +70,7 @@ func (x Interfaces_Interface_Ethernet_Config_DuplexMode) String() string {
 	return proto.EnumName(Interfaces_Interface_Ethernet_Config_DuplexMode_name, int32(x))
 }
 func (Interfaces_Interface_Ethernet_Config_DuplexMode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 0, 0}
 }
 
 type Interfaces_Interface_Ethernet_State_DuplexMode int32
@@ -96,7 +96,7 @@ func (x Interfaces_Interface_Ethernet_State_DuplexMode) String() string {
 	return proto.EnumName(Interfaces_Interface_Ethernet_State_DuplexMode_name, int32(x))
 }
 func (Interfaces_Interface_Ethernet_State_DuplexMode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 1, 0}
 }
 
 type Interfaces_Interface_Ethernet_State_NegotiatedDuplexMode int32
@@ -122,7 +122,7 @@ func (x Interfaces_Interface_Ethernet_State_NegotiatedDuplexMode) String() strin
 	return proto.EnumName(Interfaces_Interface_Ethernet_State_NegotiatedDuplexMode_name, int32(x))
 }
 func (Interfaces_Interface_Ethernet_State_NegotiatedDuplexMode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 1, 1}
 }
 
 type Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config_Mode int32
@@ -148,7 +148,7 @@ func (x Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config_Mode) String() stri
 	return proto.EnumName(Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config_Mode_name, int32(x))
 }
 func (Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config_Mode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 3, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 3, 0, 0}
 }
 
 type Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State_Mode int32
@@ -174,7 +174,7 @@ func (x Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State_Mode) String() strin
 	return proto.EnumName(Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State_Mode_name, int32(x))
 }
 func (Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State_Mode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 3, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 3, 1, 0}
 }
 
 type Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State_Status int32
@@ -218,7 +218,7 @@ func (x Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State_Status) Str
 	return proto.EnumName(Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State_Status_name, int32(x))
 }
 func (Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State_Status) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 1, 0}
 }
 
 type Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State_NeighborState int32
@@ -253,7 +253,7 @@ func (x Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State_NeighborSt
 	return proto.EnumName(Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State_NeighborState_name, int32(x))
 }
 func (Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State_NeighborState) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 2, 0, 1, 0}
 }
 
 type Interfaces_Interface_State_AdminStatus int32
@@ -282,7 +282,7 @@ func (x Interfaces_Interface_State_AdminStatus) String() string {
 	return proto.EnumName(Interfaces_Interface_State_AdminStatus_name, int32(x))
 }
 func (Interfaces_Interface_State_AdminStatus) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 5, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 5, 0}
 }
 
 type Interfaces_Interface_State_HealthIndicator int32
@@ -308,7 +308,7 @@ func (x Interfaces_Interface_State_HealthIndicator) String() string {
 	return proto.EnumName(Interfaces_Interface_State_HealthIndicator_name, int32(x))
 }
 func (Interfaces_Interface_State_HealthIndicator) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 5, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 5, 1}
 }
 
 type Interfaces_Interface_State_OperStatus int32
@@ -349,7 +349,7 @@ func (x Interfaces_Interface_State_OperStatus) String() string {
 	return proto.EnumName(Interfaces_Interface_State_OperStatus_name, int32(x))
 }
 func (Interfaces_Interface_State_OperStatus) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 5, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 5, 2}
 }
 
 type Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config_Mode int32
@@ -375,7 +375,7 @@ func (x Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config_Mod
 	return proto.EnumName(Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config_Mode_name, int32(x))
 }
 func (Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config_Mode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 3, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 3, 0, 0}
 }
 
 type Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State_Mode int32
@@ -401,7 +401,7 @@ func (x Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State_Mode
 	return proto.EnumName(Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State_Mode_name, int32(x))
 }
 func (Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State_Mode) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 3, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 3, 1, 0}
 }
 
 type Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State_Status int32
@@ -445,7 +445,7 @@ func (x Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_S
 	return proto.EnumName(Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State_Status_name, int32(x))
 }
 func (Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State_Status) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 1, 0}
 }
 
 type Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State_NeighborState int32
@@ -480,7 +480,7 @@ func (x Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_
 	return proto.EnumName(Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State_NeighborState_name, int32(x))
 }
 func (Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State_NeighborState) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 2, 0, 1, 0}
 }
 
 type Interfaces_Interface_Subinterfaces_Subinterface_State_AdminStatus int32
@@ -509,7 +509,7 @@ func (x Interfaces_Interface_Subinterfaces_Subinterface_State_AdminStatus) Strin
 	return proto.EnumName(Interfaces_Interface_Subinterfaces_Subinterface_State_AdminStatus_name, int32(x))
 }
 func (Interfaces_Interface_Subinterfaces_Subinterface_State_AdminStatus) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 3, 0}
 }
 
 type Interfaces_Interface_Subinterfaces_Subinterface_State_OperStatus int32
@@ -550,7 +550,7 @@ func (x Interfaces_Interface_Subinterfaces_Subinterface_State_OperStatus) String
 	return proto.EnumName(Interfaces_Interface_Subinterfaces_Subinterface_State_OperStatus_name, int32(x))
 }
 func (Interfaces_Interface_Subinterfaces_Subinterface_State_OperStatus) EnumDescriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 3, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 3, 1}
 }
 
 type Interfaces struct {
@@ -564,7 +564,7 @@ func (m *Interfaces) Reset()         { *m = Interfaces{} }
 func (m *Interfaces) String() string { return proto.CompactTextString(m) }
 func (*Interfaces) ProtoMessage()    {}
 func (*Interfaces) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0}
 }
 func (m *Interfaces) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces.Unmarshal(m, b)
@@ -608,7 +608,7 @@ func (m *Interfaces_Interface) Reset()         { *m = Interfaces_Interface{} }
 func (m *Interfaces_Interface) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface) ProtoMessage()    {}
 func (*Interfaces_Interface) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0}
 }
 func (m *Interfaces_Interface) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface.Unmarshal(m, b)
@@ -690,7 +690,7 @@ func (m *Interfaces_Interface_Aggregation) Reset()         { *m = Interfaces_Int
 func (m *Interfaces_Interface_Aggregation) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Aggregation) ProtoMessage()    {}
 func (*Interfaces_Interface_Aggregation) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0}
 }
 func (m *Interfaces_Interface_Aggregation) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation.Unmarshal(m, b)
@@ -745,7 +745,7 @@ func (m *Interfaces_Interface_Aggregation_Config) Reset() {
 func (m *Interfaces_Interface_Aggregation_Config) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Aggregation_Config) ProtoMessage()    {}
 func (*Interfaces_Interface_Aggregation_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 0}
 }
 func (m *Interfaces_Interface_Aggregation_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_Config.Unmarshal(m, b)
@@ -795,7 +795,7 @@ func (m *Interfaces_Interface_Aggregation_State) Reset() {
 func (m *Interfaces_Interface_Aggregation_State) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Aggregation_State) ProtoMessage()    {}
 func (*Interfaces_Interface_Aggregation_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 1}
 }
 func (m *Interfaces_Interface_Aggregation_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_State.Unmarshal(m, b)
@@ -859,7 +859,7 @@ func (m *Interfaces_Interface_Aggregation_SwitchedVlan) String() string {
 }
 func (*Interfaces_Interface_Aggregation_SwitchedVlan) ProtoMessage() {}
 func (*Interfaces_Interface_Aggregation_SwitchedVlan) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 2}
 }
 func (m *Interfaces_Interface_Aggregation_SwitchedVlan) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_SwitchedVlan.Unmarshal(m, b)
@@ -911,7 +911,7 @@ func (m *Interfaces_Interface_Aggregation_SwitchedVlan_Config) String() string {
 }
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 2, 0}
 }
 func (m *Interfaces_Interface_Aggregation_SwitchedVlan_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_SwitchedVlan_Config.Unmarshal(m, b)
@@ -975,7 +975,7 @@ func (m *Interfaces_Interface_Aggregation_SwitchedVlan_Config_TrunkVlansUnion) S
 }
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_Config_TrunkVlansUnion) ProtoMessage() {}
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_Config_TrunkVlansUnion) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Aggregation_SwitchedVlan_Config_TrunkVlansUnion) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_SwitchedVlan_Config_TrunkVlansUnion.Unmarshal(m, b)
@@ -1027,7 +1027,7 @@ func (m *Interfaces_Interface_Aggregation_SwitchedVlan_State) String() string {
 }
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_State) ProtoMessage() {}
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 2, 1}
 }
 func (m *Interfaces_Interface_Aggregation_SwitchedVlan_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_SwitchedVlan_State.Unmarshal(m, b)
@@ -1091,7 +1091,7 @@ func (m *Interfaces_Interface_Aggregation_SwitchedVlan_State_TrunkVlansUnion) St
 }
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_State_TrunkVlansUnion) ProtoMessage() {}
 func (*Interfaces_Interface_Aggregation_SwitchedVlan_State_TrunkVlansUnion) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 0, 2, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 0, 2, 1, 0}
 }
 func (m *Interfaces_Interface_Aggregation_SwitchedVlan_State_TrunkVlansUnion) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Aggregation_SwitchedVlan_State_TrunkVlansUnion.Unmarshal(m, b)
@@ -1144,7 +1144,7 @@ func (m *Interfaces_Interface_Config) Reset()         { *m = Interfaces_Interfac
 func (m *Interfaces_Interface_Config) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Config) ProtoMessage()    {}
 func (*Interfaces_Interface_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 1}
 }
 func (m *Interfaces_Interface_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Config.Unmarshal(m, b)
@@ -1240,7 +1240,7 @@ func (m *Interfaces_Interface_Ethernet) Reset()         { *m = Interfaces_Interf
 func (m *Interfaces_Interface_Ethernet) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Ethernet) ProtoMessage()    {}
 func (*Interfaces_Interface_Ethernet) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2}
 }
 func (m *Interfaces_Interface_Ethernet) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet.Unmarshal(m, b)
@@ -1298,7 +1298,7 @@ func (m *Interfaces_Interface_Ethernet_Config) Reset()         { *m = Interfaces
 func (m *Interfaces_Interface_Ethernet_Config) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Ethernet_Config) ProtoMessage()    {}
 func (*Interfaces_Interface_Ethernet_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 0}
 }
 func (m *Interfaces_Interface_Ethernet_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_Config.Unmarshal(m, b)
@@ -1388,7 +1388,7 @@ func (m *Interfaces_Interface_Ethernet_State) Reset()         { *m = Interfaces_
 func (m *Interfaces_Interface_Ethernet_State) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Ethernet_State) ProtoMessage()    {}
 func (*Interfaces_Interface_Ethernet_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 1}
 }
 func (m *Interfaces_Interface_Ethernet_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_State.Unmarshal(m, b)
@@ -1509,7 +1509,7 @@ func (m *Interfaces_Interface_Ethernet_State_Counters) String() string {
 }
 func (*Interfaces_Interface_Ethernet_State_Counters) ProtoMessage() {}
 func (*Interfaces_Interface_Ethernet_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 1, 0}
 }
 func (m *Interfaces_Interface_Ethernet_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_State_Counters.Unmarshal(m, b)
@@ -1615,7 +1615,7 @@ func (m *Interfaces_Interface_Ethernet_SwitchedVlan) String() string {
 }
 func (*Interfaces_Interface_Ethernet_SwitchedVlan) ProtoMessage() {}
 func (*Interfaces_Interface_Ethernet_SwitchedVlan) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 2}
 }
 func (m *Interfaces_Interface_Ethernet_SwitchedVlan) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_SwitchedVlan.Unmarshal(m, b)
@@ -1667,7 +1667,7 @@ func (m *Interfaces_Interface_Ethernet_SwitchedVlan_Config) String() string {
 }
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 2, 0}
 }
 func (m *Interfaces_Interface_Ethernet_SwitchedVlan_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_SwitchedVlan_Config.Unmarshal(m, b)
@@ -1731,7 +1731,7 @@ func (m *Interfaces_Interface_Ethernet_SwitchedVlan_Config_TrunkVlansUnion) Stri
 }
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_Config_TrunkVlansUnion) ProtoMessage() {}
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_Config_TrunkVlansUnion) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Ethernet_SwitchedVlan_Config_TrunkVlansUnion) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_SwitchedVlan_Config_TrunkVlansUnion.Unmarshal(m, b)
@@ -1783,7 +1783,7 @@ func (m *Interfaces_Interface_Ethernet_SwitchedVlan_State) String() string {
 }
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_State) ProtoMessage() {}
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 2, 1}
 }
 func (m *Interfaces_Interface_Ethernet_SwitchedVlan_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_SwitchedVlan_State.Unmarshal(m, b)
@@ -1847,7 +1847,7 @@ func (m *Interfaces_Interface_Ethernet_SwitchedVlan_State_TrunkVlansUnion) Strin
 }
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_State_TrunkVlansUnion) ProtoMessage() {}
 func (*Interfaces_Interface_Ethernet_SwitchedVlan_State_TrunkVlansUnion) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 2, 2, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 2, 2, 1, 0}
 }
 func (m *Interfaces_Interface_Ethernet_SwitchedVlan_State_TrunkVlansUnion) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Ethernet_SwitchedVlan_State_TrunkVlansUnion.Unmarshal(m, b)
@@ -1893,7 +1893,7 @@ func (m *Interfaces_Interface_HoldTime) Reset()         { *m = Interfaces_Interf
 func (m *Interfaces_Interface_HoldTime) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_HoldTime) ProtoMessage()    {}
 func (*Interfaces_Interface_HoldTime) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 3}
 }
 func (m *Interfaces_Interface_HoldTime) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_HoldTime.Unmarshal(m, b)
@@ -1939,7 +1939,7 @@ func (m *Interfaces_Interface_HoldTime_Config) Reset()         { *m = Interfaces
 func (m *Interfaces_Interface_HoldTime_Config) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_HoldTime_Config) ProtoMessage()    {}
 func (*Interfaces_Interface_HoldTime_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 3, 0}
 }
 func (m *Interfaces_Interface_HoldTime_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_HoldTime_Config.Unmarshal(m, b)
@@ -1985,7 +1985,7 @@ func (m *Interfaces_Interface_HoldTime_State) Reset()         { *m = Interfaces_
 func (m *Interfaces_Interface_HoldTime_State) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_HoldTime_State) ProtoMessage()    {}
 func (*Interfaces_Interface_HoldTime_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 3, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 3, 1}
 }
 func (m *Interfaces_Interface_HoldTime_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_HoldTime_State.Unmarshal(m, b)
@@ -2033,7 +2033,7 @@ func (m *Interfaces_Interface_RoutedVlan) Reset()         { *m = Interfaces_Inte
 func (m *Interfaces_Interface_RoutedVlan) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_RoutedVlan) ProtoMessage()    {}
 func (*Interfaces_Interface_RoutedVlan) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4}
 }
 func (m *Interfaces_Interface_RoutedVlan) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan.Unmarshal(m, b)
@@ -2097,7 +2097,7 @@ func (m *Interfaces_Interface_RoutedVlan_Config) Reset() {
 func (m *Interfaces_Interface_RoutedVlan_Config) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_RoutedVlan_Config) ProtoMessage()    {}
 func (*Interfaces_Interface_RoutedVlan_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Config.Unmarshal(m, b)
@@ -2235,7 +2235,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4) Reset()         { *m = Interfaces
 func (m *Interfaces_Interface_RoutedVlan_Ipv4) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_RoutedVlan_Ipv4) ProtoMessage()    {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4.Unmarshal(m, b)
@@ -2312,7 +2312,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses.Unmarshal(m, b)
@@ -2356,7 +2356,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address) String() string
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address.Unmarshal(m, b)
@@ -2413,7 +2413,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Config) String()
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Config.Unmarshal(m, b)
@@ -2464,7 +2464,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_State) String() 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_State.Unmarshal(m, b)
@@ -2520,7 +2520,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp) String() s
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp.Unmarshal(m, b)
@@ -2564,7 +2564,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup) 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup.Unmarshal(m, b)
@@ -2626,7 +2626,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_C
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config.Unmarshal(m, b)
@@ -2712,7 +2712,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_I
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) ProtoMessage() {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking.Unmarshal(m, b)
@@ -2763,7 +2763,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_I
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 0, 1, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config.Unmarshal(m, b)
@@ -2814,7 +2814,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_I
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 0, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 0, 1, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State.Unmarshal(m, b)
@@ -2870,7 +2870,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_S
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 0, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State.Unmarshal(m, b)
@@ -2962,7 +2962,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroupKe
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 0, 2, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey.Unmarshal(m, b)
@@ -3012,7 +3012,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_AddressKey) String() str
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_AddressKey) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Addresses_AddressKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Addresses_AddressKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Addresses_AddressKey.Unmarshal(m, b)
@@ -3063,7 +3063,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Config) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Config.Unmarshal(m, b)
@@ -3119,7 +3119,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Neighbors.Unmarshal(m, b)
@@ -3162,7 +3162,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor) String() strin
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 2, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor.Unmarshal(m, b)
@@ -3212,7 +3212,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_Config) String(
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 2, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_Config.Unmarshal(m, b)
@@ -3263,7 +3263,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_State) String()
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 2, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_Neighbor_State.Unmarshal(m, b)
@@ -3320,7 +3320,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_NeighborKey) String() st
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_NeighborKey) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_NeighborKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 2, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_NeighborKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Neighbors_NeighborKey.Unmarshal(m, b)
@@ -3370,7 +3370,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 3}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp.Unmarshal(m, b)
@@ -3419,7 +3419,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 3, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_Config.Unmarshal(m, b)
@@ -3461,7 +3461,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 3, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 3, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_ProxyArp_State.Unmarshal(m, b)
@@ -3506,7 +3506,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_State) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 4}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 4}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_State.Unmarshal(m, b)
@@ -3580,7 +3580,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_State_Counters) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_State_Counters) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 4, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 4, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_State_Counters.Unmarshal(m, b)
@@ -3701,7 +3701,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 5}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 5}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered.Unmarshal(m, b)
@@ -3757,7 +3757,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_Config) String() string
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 5, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 5, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_Config.Unmarshal(m, b)
@@ -3800,7 +3800,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef) String() 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 5, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 5, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef.Unmarshal(m, b)
@@ -3850,7 +3850,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_Config) St
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 5, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 5, 1, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_Config.Unmarshal(m, b)
@@ -3900,7 +3900,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_State) Str
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 5, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 5, 1, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_InterfaceRef_State.Unmarshal(m, b)
@@ -3949,7 +3949,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_State) String() string 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 1, 5, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 1, 5, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv4_Unnumbered_State.Unmarshal(m, b)
@@ -3992,7 +3992,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6) Reset()         { *m = Interfaces
 func (m *Interfaces_Interface_RoutedVlan_Ipv6) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_RoutedVlan_Ipv6) ProtoMessage()    {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6.Unmarshal(m, b)
@@ -4069,7 +4069,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses.Unmarshal(m, b)
@@ -4113,7 +4113,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address) String() string
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address.Unmarshal(m, b)
@@ -4170,7 +4170,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Config) String()
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Config.Unmarshal(m, b)
@@ -4222,7 +4222,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State) String() 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_State.Unmarshal(m, b)
@@ -4285,7 +4285,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp) String() s
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp.Unmarshal(m, b)
@@ -4329,7 +4329,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup) 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup.Unmarshal(m, b)
@@ -4392,7 +4392,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_C
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config.Unmarshal(m, b)
@@ -4485,7 +4485,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_I
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) ProtoMessage() {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking.Unmarshal(m, b)
@@ -4536,7 +4536,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_I
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 0, 1, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config.Unmarshal(m, b)
@@ -4587,7 +4587,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_I
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 0, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 0, 1, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State.Unmarshal(m, b)
@@ -4644,7 +4644,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_S
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 0, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State.Unmarshal(m, b)
@@ -4743,7 +4743,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroupKe
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 0, 2, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey.Unmarshal(m, b)
@@ -4793,7 +4793,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_AddressKey) String() str
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_AddressKey) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Addresses_AddressKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Addresses_AddressKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Addresses_AddressKey.Unmarshal(m, b)
@@ -4845,7 +4845,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Config) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Config.Unmarshal(m, b)
@@ -4908,7 +4908,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Neighbors.Unmarshal(m, b)
@@ -4951,7 +4951,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor) String() strin
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 2, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor.Unmarshal(m, b)
@@ -5001,7 +5001,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_Config) String(
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 2, 0, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_Config.Unmarshal(m, b)
@@ -5054,7 +5054,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State) String()
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 2, 0, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_Neighbor_State.Unmarshal(m, b)
@@ -5125,7 +5125,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_NeighborKey) String() st
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_NeighborKey) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_NeighborKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 2, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_NeighborKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Neighbors_NeighborKey.Unmarshal(m, b)
@@ -5175,7 +5175,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement) String() stri
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 3}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement.Unmarshal(m, b)
@@ -5226,7 +5226,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_Config) String
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 3, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_Config.Unmarshal(m, b)
@@ -5284,7 +5284,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_State) String(
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 3, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 3, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_RouterAdvertisement_State.Unmarshal(m, b)
@@ -5344,7 +5344,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_State) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 4}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 4}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_State.Unmarshal(m, b)
@@ -5425,7 +5425,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_State_Counters) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_State_Counters) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 4, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 4, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_State_Counters.Unmarshal(m, b)
@@ -5546,7 +5546,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered) String() string {
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 5}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 5}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered.Unmarshal(m, b)
@@ -5602,7 +5602,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_Config) String() string
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 5, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 5, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_Config.Unmarshal(m, b)
@@ -5645,7 +5645,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef) String() 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 5, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 5, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef.Unmarshal(m, b)
@@ -5695,7 +5695,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_Config) St
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_Config) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 5, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 5, 1, 0}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_Config.Unmarshal(m, b)
@@ -5745,7 +5745,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_State) Str
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 5, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 5, 1, 1}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_InterfaceRef_State.Unmarshal(m, b)
@@ -5794,7 +5794,7 @@ func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_State) String() string 
 }
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_State) ProtoMessage() {}
 func (*Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 2, 5, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 2, 5, 2}
 }
 func (m *Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_Ipv6_Unnumbered_State.Unmarshal(m, b)
@@ -5835,7 +5835,7 @@ func (m *Interfaces_Interface_RoutedVlan_State) Reset()         { *m = Interface
 func (m *Interfaces_Interface_RoutedVlan_State) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_RoutedVlan_State) ProtoMessage()    {}
 func (*Interfaces_Interface_RoutedVlan_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 4, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 4, 3}
 }
 func (m *Interfaces_Interface_RoutedVlan_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_RoutedVlan_State.Unmarshal(m, b)
@@ -5983,7 +5983,7 @@ func (m *Interfaces_Interface_State) Reset()         { *m = Interfaces_Interface
 func (m *Interfaces_Interface_State) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_State) ProtoMessage()    {}
 func (*Interfaces_Interface_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 5}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 5}
 }
 func (m *Interfaces_Interface_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_State.Unmarshal(m, b)
@@ -6141,7 +6141,7 @@ func (m *Interfaces_Interface_State_Counters) Reset()         { *m = Interfaces_
 func (m *Interfaces_Interface_State_Counters) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_State_Counters) ProtoMessage()    {}
 func (*Interfaces_Interface_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 5, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 5, 0}
 }
 func (m *Interfaces_Interface_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_State_Counters.Unmarshal(m, b)
@@ -6284,7 +6284,7 @@ func (m *Interfaces_Interface_Subinterfaces) Reset()         { *m = Interfaces_I
 func (m *Interfaces_Interface_Subinterfaces) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_Interface_Subinterfaces) ProtoMessage()    {}
 func (*Interfaces_Interface_Subinterfaces) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6}
 }
 func (m *Interfaces_Interface_Subinterfaces) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces.Unmarshal(m, b)
@@ -6330,7 +6330,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface) String() string {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface.Unmarshal(m, b)
@@ -6402,7 +6402,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Config) String() string
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Config.Unmarshal(m, b)
@@ -6463,7 +6463,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4) String() string {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4.Unmarshal(m, b)
@@ -6540,7 +6540,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses) String(
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses.Unmarshal(m, b)
@@ -6584,7 +6584,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address)
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address.Unmarshal(m, b)
@@ -6641,7 +6641,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Config.Unmarshal(m, b)
@@ -6692,7 +6692,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_State.Unmarshal(m, b)
@@ -6748,7 +6748,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp.Unmarshal(m, b)
@@ -6793,7 +6793,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup.Unmarshal(m, b)
@@ -6856,7 +6856,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_Config.Unmarshal(m, b)
@@ -6942,7 +6942,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking.Unmarshal(m, b)
@@ -6993,7 +6993,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 1, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config.Unmarshal(m, b)
@@ -7044,7 +7044,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 1, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State.Unmarshal(m, b)
@@ -7101,7 +7101,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 0, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroup_State.Unmarshal(m, b)
@@ -7194,7 +7194,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 0, 2, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_Address_Vrrp_VrrpGroupKey.Unmarshal(m, b)
@@ -7244,7 +7244,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_AddressK
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_AddressKey) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_AddressKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_AddressKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Addresses_AddressKey.Unmarshal(m, b)
@@ -7295,7 +7295,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Config) String() s
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Config.Unmarshal(m, b)
@@ -7351,7 +7351,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors) String(
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors.Unmarshal(m, b)
@@ -7394,7 +7394,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 2, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor.Unmarshal(m, b)
@@ -7445,7 +7445,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_Config.Unmarshal(m, b)
@@ -7496,7 +7496,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 2, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor_State.Unmarshal(m, b)
@@ -7553,7 +7553,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_Neighbor
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_NeighborKey) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_NeighborKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 2, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_NeighborKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Neighbors_NeighborKey.Unmarshal(m, b)
@@ -7603,7 +7603,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp) String()
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 3}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp.Unmarshal(m, b)
@@ -7652,7 +7652,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config) S
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 3, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_Config.Unmarshal(m, b)
@@ -7694,7 +7694,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State) St
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 3, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 3, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_ProxyArp_State.Unmarshal(m, b)
@@ -7739,7 +7739,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State) String() st
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 4}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 4}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State.Unmarshal(m, b)
@@ -7813,7 +7813,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State_Counters) St
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State_Counters) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 4, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 4, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_State_Counters.Unmarshal(m, b)
@@ -7934,7 +7934,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered) String
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 5}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 5}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered.Unmarshal(m, b)
@@ -7990,7 +7990,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Config)
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 5, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 5, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Config.Unmarshal(m, b)
@@ -8033,7 +8033,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Interfa
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 5, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 5, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef.Unmarshal(m, b)
@@ -8084,7 +8084,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Interfa
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 5, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 5, 1, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_Config.Unmarshal(m, b)
@@ -8135,7 +8135,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_Interfa
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 5, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 5, 1, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_InterfaceRef_State.Unmarshal(m, b)
@@ -8184,7 +8184,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_State) 
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 1, 5, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 1, 5, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv4_Unnumbered_State.Unmarshal(m, b)
@@ -8231,7 +8231,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6) String() string {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6.Unmarshal(m, b)
@@ -8308,7 +8308,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses) String(
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses.Unmarshal(m, b)
@@ -8352,7 +8352,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address)
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address.Unmarshal(m, b)
@@ -8409,7 +8409,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Config.Unmarshal(m, b)
@@ -8461,7 +8461,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_State.Unmarshal(m, b)
@@ -8524,7 +8524,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp.Unmarshal(m, b)
@@ -8569,7 +8569,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup.Unmarshal(m, b)
@@ -8633,7 +8633,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_Config.Unmarshal(m, b)
@@ -8726,7 +8726,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking.Unmarshal(m, b)
@@ -8777,7 +8777,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 1, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_Config.Unmarshal(m, b)
@@ -8828,7 +8828,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 1, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_InterfaceTracking_State.Unmarshal(m, b)
@@ -8886,7 +8886,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 0, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroup_State.Unmarshal(m, b)
@@ -8986,7 +8986,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 0, 2, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_Address_Vrrp_VrrpGroupKey.Unmarshal(m, b)
@@ -9036,7 +9036,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_AddressK
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_AddressKey) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_AddressKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_AddressKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Addresses_AddressKey.Unmarshal(m, b)
@@ -9088,7 +9088,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Config) String() s
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Config.Unmarshal(m, b)
@@ -9151,7 +9151,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors) String(
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors.Unmarshal(m, b)
@@ -9194,7 +9194,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 2, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 2, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor.Unmarshal(m, b)
@@ -9245,7 +9245,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 2, 0, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 2, 0, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_Config.Unmarshal(m, b)
@@ -9298,7 +9298,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 2, 0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 2, 0, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor_State.Unmarshal(m, b)
@@ -9369,7 +9369,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_Neighbor
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_NeighborKey) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_NeighborKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 2, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 2, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_NeighborKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Neighbors_NeighborKey.Unmarshal(m, b)
@@ -9419,7 +9419,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisemen
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 3}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement.Unmarshal(m, b)
@@ -9471,7 +9471,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisemen
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 3, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_Config.Unmarshal(m, b)
@@ -9530,7 +9530,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisemen
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 3, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 3, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_RouterAdvertisement_State.Unmarshal(m, b)
@@ -9590,7 +9590,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State) String() st
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 4}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 4}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State.Unmarshal(m, b)
@@ -9671,7 +9671,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State_Counters) St
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State_Counters) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 4, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 4, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_State_Counters.Unmarshal(m, b)
@@ -9792,7 +9792,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered) String
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 5}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 5}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered.Unmarshal(m, b)
@@ -9848,7 +9848,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Config)
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 5, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 5, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Config.Unmarshal(m, b)
@@ -9891,7 +9891,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Interfa
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 5, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 5, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef.Unmarshal(m, b)
@@ -9942,7 +9942,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Interfa
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_Config) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 5, 1, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 5, 1, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_Config.Unmarshal(m, b)
@@ -9993,7 +9993,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_Interfa
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_State) ProtoMessage() {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 5, 1, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 5, 1, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_InterfaceRef_State.Unmarshal(m, b)
@@ -10042,7 +10042,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_State) 
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 2, 5, 2}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 2, 5, 2}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Ipv6_Unnumbered_State.Unmarshal(m, b)
@@ -10092,7 +10092,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_State) String() string 
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 3}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 3}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_State.Unmarshal(m, b)
@@ -10205,7 +10205,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_State_Counters) String(
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_State_Counters) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_State_Counters) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 3, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 3, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_State_Counters) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_State_Counters.Unmarshal(m, b)
@@ -10353,7 +10353,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Vlan) String() string {
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Vlan) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Vlan) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 4}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 4}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Vlan) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Vlan.Unmarshal(m, b)
@@ -10405,7 +10405,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Vlan_Config) String() s
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Vlan_Config) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Vlan_Config) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 4, 0}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 4, 0}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Vlan_Config) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Vlan_Config.Unmarshal(m, b)
@@ -10545,7 +10545,7 @@ func (m *Interfaces_Interface_Subinterfaces_Subinterface_Vlan_State) String() st
 }
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Vlan_State) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_Subinterface_Vlan_State) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 0, 4, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 0, 4, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_Subinterface_Vlan_State) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_Subinterface_Vlan_State.Unmarshal(m, b)
@@ -10683,7 +10683,7 @@ func (m *Interfaces_Interface_Subinterfaces_SubinterfaceKey) String() string {
 }
 func (*Interfaces_Interface_Subinterfaces_SubinterfaceKey) ProtoMessage() {}
 func (*Interfaces_Interface_Subinterfaces_SubinterfaceKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 0, 6, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 0, 6, 1}
 }
 func (m *Interfaces_Interface_Subinterfaces_SubinterfaceKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_Interface_Subinterfaces_SubinterfaceKey.Unmarshal(m, b)
@@ -10729,7 +10729,7 @@ func (m *Interfaces_InterfaceKey) Reset()         { *m = Interfaces_InterfaceKey
 func (m *Interfaces_InterfaceKey) String() string { return proto.CompactTextString(m) }
 func (*Interfaces_InterfaceKey) ProtoMessage()    {}
 func (*Interfaces_InterfaceKey) Descriptor() ([]byte, []int) {
-	return fileDescriptor_openconfig_interfaces_9522bc1758e2c411, []int{0, 1}
+	return fileDescriptor_openconfig_interfaces_3228fb5c64157a8e, []int{0, 1}
 }
 func (m *Interfaces_InterfaceKey) XXX_Unmarshal(b []byte) error {
 	return xxx_messageInfo_Interfaces_InterfaceKey.Unmarshal(m, b)
@@ -10946,10 +10946,10 @@ func init() {
 }
 
 func init() {
-	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/openconfig_interfaces/openconfig_interfaces.proto", fileDescriptor_openconfig_interfaces_9522bc1758e2c411)
+	proto.RegisterFile("github.com/openconfig/hercules/proto/openconfig/openconfig_interfaces/openconfig_interfaces.proto", fileDescriptor_openconfig_interfaces_3228fb5c64157a8e)
 }
 
-var fileDescriptor_openconfig_interfaces_9522bc1758e2c411 = []byte{
+var fileDescriptor_openconfig_interfaces_3228fb5c64157a8e = []byte{
 	// 14304 bytes of a gzipped FileDescriptorProto
 	0x1f, 0x8b, 0x08, 0x00, 0x00, 0x00, 0x00, 0x00, 0x02, 0xff, 0xd4, 0x7d, 0x79, 0x9c, 0x13, 0x45,
 	0xda, 0xff, 0xf6, 0x30, 0xc0, 0x4c, 0xcd, 0x00, 0xa1, 0xf1, 0x88, 0x59, 0x77, 0x55, 0x74, 0x5d,

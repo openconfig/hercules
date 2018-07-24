@@ -10,6 +10,7 @@
 //  - public/release/models/platform/openconfig-platform-port.yang
 //  - public/release/models/platform/openconfig-platform-transceiver.yang
 //  - public/release/models/vlan/openconfig-vlan.yang
+//  - public/release/models/system/openconfig-system.yang
 //  - ../yang/openconfig-hercules-platform-linecard.yang
 //  - ../yang/openconfig-hercules-qos.yang
 //  - ../yang/openconfig-hercules-platform.yang

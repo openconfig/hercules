@@ -15,7 +15,7 @@
 
 // Package openconfig_platform contains code generated from the OpenConfig
 // Platform protobuf for Hercules.
-package openconfig_platform
+package openconfig_openconfig_platform
 
 // pb.go can be generated with go generate.
 //go:generate sh -c "cd $GOPATH/src && protoc --proto_path=. --go_out=:. github.com/openconfig/hercules/proto/openconfig/openconfig_platform/openconfig_platform.proto"

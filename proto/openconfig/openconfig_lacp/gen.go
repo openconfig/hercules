@@ -15,7 +15,7 @@
 
 // Package openconfig_lacp contains code generated from the OpenConfig LACP
 // protobuf for Hercules.
-package openconfig_lacp
+package openconfig_openconfig_lacp
 
 // pb.go can be generated using go generate.
 //go:generate sh -c "cd $GOPATH/src && protoc --proto_path=. --go_out=:. github.com/openconfig/hercules/proto/openconfig/openconfig_lacp/openconfig_lacp.proto"
