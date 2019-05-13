@@ -104,20 +104,14 @@ submodule openconfig-hercules-platform-chassis {
       description
         "Enclosing container for list of switch alarms.";
 
-      container memory-error {
+      container critical-state {
         description
-          "This is an exception raised when the switch detects an
-          uncorrectable memory corruption error.";
-
-        uses hercules-chassis-alarms-state;
-      }
-
-      container flow-programming-exception {
-        description
-          "This exception is raised when the switch is unable to
-          complete a flow programming instruction from the SDN
-          controller.  It may be caused by a hardware error or a
-          software exception.";
+          "This is an exception raised when the switch encounters an
+          uncorrectable error, and enters a state that cannot be restored back
+          to a good state without rebooting. For example, uncorrectable memory
+          corruption error or hardware flow programming error should raise the
+          critical state alarm. The severity of this alarm should always be set
+          to CRITICAL.";
 
         uses hercules-chassis-alarms-state;
       }
