@@ -18,7 +18,8 @@ Hercules defines a standard physical component hierarchy consisting of `chassis
 -> linecard -> node -> port`.  Nodes are generally implemented by a switching
 ASIC, which in turn manages multiple physical ports.  As with the base
 OpenConfig model, a physical port gives rise to one or more logical interfaces,
-depending on whether port channelization is in effect.  The layout is
-illustrated below.
+depending on whether port channelization is in effect.  Each interface is
+associated with its corresponding physical port through the
+`hardware-port` reference.  The layout is illustrated below.
 
-<img src="img/hercules-chassis.png" width="75%">
+<img src="img/hercules-chassis.png" width="65%">
