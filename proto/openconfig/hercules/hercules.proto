@@ -26,8 +26,5 @@ syntax = "proto3";
 
 package openconfig.hercules;
 
-import "github.com/openconfig/ygot/proto/ywrapper/ywrapper.proto";
-import "github.com/openconfig/ygot/proto/yext/yext.proto";
-
 message Hercules {
 }

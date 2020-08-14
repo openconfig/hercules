@@ -1,0 +1,37 @@
+diff --git a/proto/openconfig/enums/enums.proto b/proto/openconfig/enums/enums.proto
+index 4798934..58420c7 100644
+--- a/proto/openconfig/enums/enums.proto
++++ b/proto/openconfig/enums/enums.proto
+@@ -26,7 +26,6 @@ syntax = "proto3";
+ 
+ package openconfig.enums;
+ 
+-import "github.com/openconfig/ygot/proto/ywrapper/ywrapper.proto";
+ import "github.com/openconfig/ygot/proto/yext/yext.proto";
+ 
+ // IETFInterfacesInterfaceType represents an enumerated type generated for the YANG identity interface-type.
+diff --git a/proto/openconfig/hercules/hercules.proto b/proto/openconfig/hercules/hercules.proto
+index 06841b5..b52b017 100644
+--- a/proto/openconfig/hercules/hercules.proto
++++ b/proto/openconfig/hercules/hercules.proto
+@@ -26,8 +26,5 @@ syntax = "proto3";
+ 
+ package openconfig.hercules;
+ 
+-import "github.com/openconfig/ygot/proto/ywrapper/ywrapper.proto";
+-import "github.com/openconfig/ygot/proto/yext/yext.proto";
+-
+ message Hercules {
+ }
+diff --git a/proto/openconfig/openconfig.proto b/proto/openconfig/openconfig.proto
+index 9c43e27..a270c2d 100644
+--- a/proto/openconfig/openconfig.proto
++++ b/proto/openconfig/openconfig.proto
+@@ -26,7 +26,6 @@ syntax = "proto3";
+ 
+ package openconfig;
+ 
+-import "github.com/openconfig/ygot/proto/ywrapper/ywrapper.proto";
+ import "github.com/openconfig/ygot/proto/yext/yext.proto";
+ import "github.com/openconfig/hercules/proto/openconfig/hercules/hercules.proto";
+ import "github.com/openconfig/hercules/proto/openconfig/openconfig_interfaces/openconfig_interfaces.proto";
