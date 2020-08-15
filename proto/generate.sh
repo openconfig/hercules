@@ -62,6 +62,12 @@ go run $GOPATH/src/github.com/openconfig/ygot/proto_generator/protogenerator.go 
   ../yang/openconfig-hercules-interfaces.yang \
   ../yang/openconfig-hercules-platform-node.yang
 rm -rf public yang
+
+for p in `ls $THISDIR/../PATCHES`; do
+  git apply $THISDIR/../PATCHES/$p
+done
+
+
 find . -type d -mindepth 1 | while read l; do (cd $l && go generate); done;
 )
 
